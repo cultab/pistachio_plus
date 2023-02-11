@@ -1,0 +1,13 @@
+name = "Roughly Enough Trades"
+filename = "RoughlyEnoughTrades-1.19.3-1.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/SRDQqMfX/versions/UFe6Qy2t/RoughlyEnoughTrades-1.19.3-1.0.jar"
+hash-format = "sha1"
+hash = "8e8c2a499869408e50a5df09d4fa439188b13559"
+
+[update]
+[update.modrinth]
+mod-id = "SRDQqMfX"
+version = "UFe6Qy2t"

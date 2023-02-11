@@ -1,0 +1,13 @@
+name = "Neat"
+filename = "Neat-1.19.3-33-FABRIC.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ins7SzzR/versions/TaKWCZwe/Neat-1.19.3-33-FABRIC.jar"
+hash-format = "sha1"
+hash = "6b912a5ecb6cf38b1ad44c1f2a8706b9a4c1c5f6"
+
+[update]
+[update.modrinth]
+mod-id = "Ins7SzzR"
+version = "TaKWCZwe"

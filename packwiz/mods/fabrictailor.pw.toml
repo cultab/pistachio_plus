@@ -1,0 +1,13 @@
+name = "Fabric Tailor"
+filename = "fabrictailor-2.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/g8w1NapE/versions/kDI6qONk/fabrictailor-2.0.2.jar"
+hash-format = "sha1"
+hash = "30ceaa18509b03908adedd98ee7daaa41b06f6da"
+
+[update]
+[update.modrinth]
+mod-id = "g8w1NapE"
+version = "kDI6qONk"

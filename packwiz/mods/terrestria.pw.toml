@@ -1,0 +1,13 @@
+name = "Terrestria"
+filename = "terrestria-5.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/lsUDPMOT/versions/5czOOdgm/terrestria-5.1.1.jar"
+hash-format = "sha1"
+hash = "9bd3bc903a6fa4ef5e18dcd7d50d80f0c58653be"
+
+[update]
+[update.modrinth]
+mod-id = "lsUDPMOT"
+version = "5czOOdgm"
