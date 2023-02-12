@@ -533,6 +533,11 @@ hash = "da0d81fb8865755c58eccae520fafbef5bdcae6e5bc577e33e8798ba0c955369"
 metafile = true
 
 [[files]]
+file = "mods/spawn-animations.pw.toml"
+hash = "b4b8e10d243bf3b0c5a3e2346141adae563bc70156fdd111a27cf1de827c24be"
+metafile = true
+
+[[files]]
 file = "mods/starlight.pw.toml"
 hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
