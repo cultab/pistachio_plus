@@ -143,6 +143,11 @@ hash = "a85833a7ea20b38e5524f2755f4288b62045fd7155ca071c6d4cc1dc9b8c2958"
 metafile = true
 
 [[files]]
+file = "mods/cc-restitched.pw.toml"
+hash = "ae1acb8953c30ac121915e22913c8905c3a7d5f9fa4d7650abff16049c83d6ee"
+metafile = true
+
+[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "621ca00937c28f7ec4aaf53d58f72317219776318693342773056dcb325b87b0"
 metafile = true
