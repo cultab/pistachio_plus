@@ -143,11 +143,6 @@ hash = "a85833a7ea20b38e5524f2755f4288b62045fd7155ca071c6d4cc1dc9b8c2958"
 metafile = true
 
 [[files]]
-file = "mods/capes.pw.toml"
-hash = "102baae65f09499fe9881590b64e8f12cbbac22c4b069c437fd200478cd0da64"
-metafile = true
-
-[[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "621ca00937c28f7ec4aaf53d58f72317219776318693342773056dcb325b87b0"
 metafile = true
@@ -160,6 +155,11 @@ metafile = true
 [[files]]
 file = "mods/chunks-fade-in.pw.toml"
 hash = "79c152783c7b0ed84a8d4c9cc4d83d7e109a6bbae63f86136a3518048b7a66c7"
+metafile = true
+
+[[files]]
+file = "mods/chunky.pw.toml"
+hash = "f9ec6aa004b6d82b283db45be18ee04fc61e5a18fc5a736f98bec72f963c5563"
 metafile = true
 
 [[files]]
@@ -185,6 +185,16 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
+metafile = true
+
+[[files]]
+file = "mods/copper-hopper.pw.toml"
+hash = "0419e14428771e095968f350521cc76469b11ab004fa1fbc2405dda6d0e7bb3d"
+metafile = true
+
+[[files]]
+file = "mods/cosmetica.pw.toml"
+hash = "4a1efe77a42baa7c8eb76e1639ac85dc180a0fa855b42d9a94d9ccee606db4a6"
 metafile = true
 
 [[files]]
@@ -290,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/happiness-is-a-warm-gun.pw.toml"
 hash = "5297c97ebbda7ba813f8d2d2f3ecd4e92bcbf0978164668240bda9802bb64d91"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "5ae2e351ed8e09e5171f7e4bfa842164794e82b638e15363a9586081ef02d9fc"
 metafile = true
 
 [[files]]
@@ -420,6 +435,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "ad4a221b5135b6e4fe977e360a60b7df32b33951e510667027d5c3ee986659da"
+metafile = true
+
+[[files]]
+file = "mods/openblocks-elevator-fabric.pw.toml"
+hash = "ac23cb85704f38c7a3647f9638a078c221afb3df4ebf5d61442f2d9adc2adc96"
 metafile = true
 
 [[files]]
