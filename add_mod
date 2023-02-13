@@ -1,0 +1,6 @@
+#!/bin/sh
+
+MOD=$*
+packwiz mr add "$MOD"
+git add index.toml pack.toml mods
+git commit --message "mods: $MOD"
