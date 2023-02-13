@@ -198,6 +198,11 @@ hash = "86498eb7f9326155844799dc57c1372fc5000b86f046994162cccd2e480a96ed"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "c27782dcc93775f43f891578600d6d74432bf33f9a3950847a4f3ab6abe5318a"
+metafile = true
+
+[[files]]
 file = "mods/copper-hopper.pw.toml"
 hash = "0419e14428771e095968f350521cc76469b11ab004fa1fbc2405dda6d0e7bb3d"
 metafile = true
@@ -230,6 +235,11 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "d5f00c0dc0cfa23dde54728bf346e89b84bbbde9c077a2c2b60356850cdff25b"
+metafile = true
+
+[[files]]
+file = "mods/double-doors.pw.toml"
+hash = "b3949f67b601ab52b5f74326302e3f9b3334ffc95264209d66c8cf6a0f12e44e"
 metafile = true
 
 [[files]]
