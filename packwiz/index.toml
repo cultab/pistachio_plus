@@ -73,6 +73,11 @@ file = "icon.png"
 hash = "60ef43a9fe3163a1159d596c2d3a47c38f08c25010e40343773bc1aad295ba76"
 
 [[files]]
+file = "mods/3dskinlayers.pw.toml"
+hash = "c025d2226099f9035bafd0adab1c63f2800dee5aa0c7c047720457f9535439b2"
+metafile = true
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "950e49a84c05b84dc02814b028f26bce1f70d6022fe829d82daf36ba78e5f78b"
 metafile = true
