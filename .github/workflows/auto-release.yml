@@ -8,6 +8,7 @@ on:
 
 jobs:
   pre-release:
+    permissions: write-all
     name: "Pre Release"
     runs-on: "ubuntu-latest"
 
@@ -16,7 +17,9 @@ jobs:
       - name: "Build & test"
         run: |
           go install github.com/packwiz/packwiz@latest
-          packwiz modrinth export
+          git clone https://github.com/cultab/pistachio_plus.git
+          cd pistachio_plus/packwiz
+          $HOME/go/bin/packwiz modrinth export
 
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
@@ -25,6 +28,6 @@ jobs:
           prerelease: true
           title: "Development Build"
           files: |
-            Readme.md
-            *.mrpack
+            pistachio_plus/Readme.md
+            pistachio_plus/packwiz/*.mrpack
           
