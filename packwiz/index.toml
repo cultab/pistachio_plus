@@ -523,6 +523,11 @@ hash = "b2e3be698473bfb3f08865a11e74c9ee8d47239ac72a79d60acc1ee381722a50"
 metafile = true
 
 [[files]]
+file = "mods/replanting-crops.pw.toml"
+hash = "99b6d4b673e4622452d9311c196418d18756f0d367db1da8fd0ddcdddd20db67"
+metafile = true
+
+[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "34bf02e5b9b7dddc383ea36a1b31b2e05e56f6ecf9b49ce341af7c578e22b42d"
 metafile = true
