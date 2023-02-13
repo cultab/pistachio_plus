@@ -223,6 +223,11 @@ hash = "d02024521821336e40652c36c675ee520b4137ed73953e98f21bcf8a55f6a583"
 metafile = true
 
 [[files]]
+file = "mods/diggus-maximus.pw.toml"
+hash = "950e6f78d72ae5e4e00c5c3c0510f2a6b8f3d941a5a19b8edf83d28a70cbe976"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "d5f00c0dc0cfa23dde54728bf346e89b84bbbde9c077a2c2b60356850cdff25b"
 metafile = true
