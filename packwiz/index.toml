@@ -283,6 +283,11 @@ hash = "df12767833f6d916dcb6f6b9a75da6a1cbc134600561bc5588c3f0cbca03c93b"
 metafile = true
 
 [[files]]
+file = "mods/fallingleaves.pw.toml"
+hash = "31e6caa20a856e7c70930ab46154e93ffe4c5f371bf520561ae90cd418d976b1"
+metafile = true
+
+[[files]]
 file = "mods/fastquit.pw.toml"
 hash = "5907619c0a26d32e4b7b2f6de98eddeb192b523adfb6765dd73c3224e7be175b"
 metafile = true
