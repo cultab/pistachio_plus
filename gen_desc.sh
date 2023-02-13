@@ -34,15 +34,18 @@ for file in $MODS; do
     json_value() {
         ret=$(printf "%s" "$json" | jq ".$1")
         ret="${ret#?}"
-        echo "${ret%?}"
+        if [ ! "$ret" = "" ]; then
+            echo "${ret%?}"
+        else
+            echo ???
+        fi
     }
 
     cat >> "$FILENAME" << EOF
-## $(json_value 'title')
+## [$(json_value 'title')]("https://modrinth.com/mod/$id")
 
 <img src="$(json_value 'icon_url')" width=250 height=250>
-
-$(json_value 'description' | sed 's/\\"/"/g')
+<p>$(json_value 'description' | sed 's/\\"/"/g')</p>
 
 License: $(json_value 'license.name')
 
