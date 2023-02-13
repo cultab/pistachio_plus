@@ -328,6 +328,11 @@ hash = "4c414176e5197b04f07913765a3d7df161939d1201f0b315772bc5189cb41a43"
 metafile = true
 
 [[files]]
+file = "mods/immersive-armors.pw.toml"
+hash = "586bb76bd32a3271af09618a474b14745bf56fe163095f6889c4023365b31cd6"
+metafile = true
+
+[[files]]
 file = "mods/indium.pw.toml"
 hash = "064fafff245baf812342dc9af4acf661dec663bab2a4067c65a27fa00860efb1"
 metafile = true
