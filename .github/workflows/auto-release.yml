@@ -3,8 +3,11 @@ name: "pre-release"
 
 on:
   push:
-    branches:
-      - "master"
+    paths:
+      # only run when mods are changed
+      - 'packwiz/pack.toml'
+      - 'packwiz/index.toml'
+      - 'packwiz/mods/*'
 
 jobs:
   pre-release:
@@ -13,7 +16,6 @@ jobs:
     runs-on: "ubuntu-latest"
 
     steps:
-      # ...
       - name: "Build & test"
         run: |
           go install github.com/packwiz/packwiz@latest
