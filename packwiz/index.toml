@@ -203,6 +203,11 @@ hash = "c27782dcc93775f43f891578600d6d74432bf33f9a3950847a4f3ab6abe5318a"
 metafile = true
 
 [[files]]
+file = "mods/cooked-carrots.pw.toml"
+hash = "86f635598479f2f64cd0ec83c47f2a02c3c46954f7505cb1fbed70dc484b0828"
+metafile = true
+
+[[files]]
 file = "mods/copper-hopper.pw.toml"
 hash = "0419e14428771e095968f350521cc76469b11ab004fa1fbc2405dda6d0e7bb3d"
 metafile = true
