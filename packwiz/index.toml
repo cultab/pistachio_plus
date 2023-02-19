@@ -328,6 +328,11 @@ hash = "141d7b9b7aacccafe753464bc0171b33e54b778fd40cf458ac2b3ac051329e8d"
 metafile = true
 
 [[files]]
+file = "mods/forgero.pw.toml"
+hash = "5bf5b8616613b28278d8f75676d0b64760fcfda41a3679c6712f3fca9264202a"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes.pw.toml"
 hash = "43250a082ee9e0064483d1e6a90a77c7a079245232e9f1355ae8aef003e5bb79"
 metafile = true
