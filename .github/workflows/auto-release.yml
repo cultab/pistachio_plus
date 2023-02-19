@@ -8,6 +8,7 @@ on:
       - 'packwiz/pack.toml'
       - 'packwiz/index.toml'
       - 'packwiz/mods/*'
+  workflow_dispatch:
 
 jobs:
   pre-release:
@@ -25,7 +26,7 @@ jobs:
 
       - name: Generate new tag version
         id: version
-        uses: "flynshue/version-action@latest"
+        uses: "flynshue/version-action@v0.0.1"
 
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
