@@ -1,5 +1,5 @@
 ---
-name: "pre-release"
+name: "release"
 
 on:
   push:
@@ -23,12 +23,16 @@ jobs:
           cd pistachio_plus/packwiz
           $HOME/go/bin/packwiz modrinth export
 
+      - name: Generate new tag version
+        id: version
+        uses: "flynshue/version-action@latest"
+
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          automatic_release_tag: "latest"
-          prerelease: true
-          title: "Development Build"
+          automatic_release_tag: "${{ steps.version.outputs.version }}"
+          prerelease: false
+          title: "Auto Release ${{ steps.version.outputs.version }}"
           files: |
             pistachio_plus/Readme.md
             pistachio_plus/packwiz/*.mrpack
