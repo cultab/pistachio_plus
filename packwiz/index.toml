@@ -363,6 +363,11 @@ hash = "ecf62efe01965ad05b936dd3f8ca3fbabb8a3483c766c2df11cdd0586c40ceb1"
 metafile = true
 
 [[files]]
+file = "mods/itemswapper.pw.toml"
+hash = "89c501200c9aa12219815dd62c1d0b89c62c70a39fd525e14170081df7d7386e"
+metafile = true
+
+[[files]]
 file = "mods/jingle.pw.toml"
 hash = "2d45f65ac27eb4a29673ebdcd546ce9bd689863a8c5e45e024e1e3a50b86ee9c"
 metafile = true
