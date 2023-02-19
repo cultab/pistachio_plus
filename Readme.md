@@ -39,6 +39,14 @@ A Vanilla+ modpack with some opinionated additions (TBD).
 
     Enchanting is fun again!
 
+- Forgero
+
+    Basically Tinker's Contructs for fabric!
+
+- Wilder Wild
+
+    What The Wild Update should have been!
+
 <details><summary><b>📜 Full mods list</b></summary><!--{{{-->
 
 ## [3D Skin Layers]("https://modrinth.com/mod/zV5r3pPn")
@@ -46,7 +54,7 @@ A Vanilla+ modpack with some opinionated additions (TBD).
 <img src="https://cdn.modrinth.com/data/zV5r3pPn/icon.png" width=250 height=250>
 <p>Render the player skin layer in 3d!</p>
 
-License: ???
+License: 
 
 ------
 
@@ -65,6 +73,15 @@ License: MIT License
 <p>Show more information about advancement requirements</p>
 
 License: MIT License
+
+------
+
+## [Almost Unified]("https://modrinth.com/mod/sdaSaQEz")
+
+<img src="https://cdn.modrinth.com/data/sdaSaQEz/icon.png" width=250 height=250>
+<p>Unify all resources.</p>
+
+License: GNU Lesser General Public License v3.0 only
 
 ------
 
@@ -149,6 +166,15 @@ License: Apache License 2.0
 
 ------
 
+## [BCLib]("https://modrinth.com/mod/BgNRHReB")
+
+<img src="https://cdn.modrinth.com/data/BgNRHReB/1b057bebe91712f5d135b2240baaffa8cd3cf065.png" width=250 height=250>
+<p>A Library Mod for the BetterX Team</p>
+
+License: MIT License
+
+------
+
 ## [Better Beds]("https://modrinth.com/mod/kKwy3HU9")
 
 <img src="https://cdn.modrinth.com/data/kKwy3HU9/icon.png" width=250 height=250>
@@ -164,6 +190,24 @@ License: MIT License
 <p>Improves the ingame HUD while riding a mount</p>
 
 License: GNU Lesser General Public License v3.0 only
+
+------
+
+## [BetterEnd]("https://modrinth.com/mod/gc8OEnCC")
+
+<img src="https://cdn.modrinth.com/data/gc8OEnCC/22fdef19992a21f7a16e53eb0ff2fe5e59766003.png" width=250 height=250>
+<p>New Biomes, mysterious rituals and Mobs for your End</p>
+
+License: MIT License
+
+------
+
+## [BetterNether]("https://modrinth.com/mod/MpzVLzy5")
+
+<img src="https://cdn.modrinth.com/data/MpzVLzy5/d35c76a6051d79b35ac33668772ee5a35f2c1f8e.png" width=250 height=250>
+<p>More Biomes, More Mobs, More Tools for the fiery Dimension</p>
+
+License: MIT License
 
 ------
 
@@ -275,6 +319,15 @@ License:
 
 ------
 
+## [Cooked carrots [Fabric/Forge]]("https://modrinth.com/mod/Bl3JrwOb")
+
+<img src="https://cdn.modrinth.com/data/Bl3JrwOb/icon.png" width=250 height=250>
+<p>Just like normal carrots, but you eat them faster</p>
+
+License: Creative Commons Zero v1.0 Universal
+
+------
+
 ## [Copper Hopper]("https://modrinth.com/mod/mTI5Xg5F")
 
 <img src="https://cdn.modrinth.com/data/mTI5Xg5F/icon.png" width=250 height=250>
@@ -284,12 +337,30 @@ License: MIT License
 
 ------
 
+## [Missing Nugget [Fabric/Forge]]("https://modrinth.com/mod/o0A3el15")
+
+<img src="https://cdn.modrinth.com/data/o0A3el15/ad282bf0d959bd6394b4e5d8048379fb9176bd8e.png" width=250 height=250>
+<p>Adds Copper Nugget</p>
+
+License: Creative Commons Zero v1.0 Universal
+
+------
+
 ## [Cosmetica]("https://modrinth.com/mod/s9hF9QGp")
 
 <img src="https://cdn.modrinth.com/data/s9hF9QGp/e954c4883e72f95d8e799d167171cde74b059b51.gif" width=250 height=250>
 <p>Free custom capes and cosmetics for Minecraft</p>
 
 License: Apache License 2.0
+
+------
+
+## [Craft slabs back into blocks [Fabric/Forge]]("https://modrinth.com/mod/8MosnjaC")
+
+<img src="https://cdn.modrinth.com/data/8MosnjaC/e55f41b013031d9d3d14cc8bc200c535b1fa74fe.png" width=250 height=250>
+<p>With this mod you can craft slabs back into blocks</p>
+
+License: Creative Commons Zero v1.0 Universal
 
 ------
 
@@ -482,12 +553,30 @@ License: MIT License
 
 ------
 
+## [Fish of Thieves]("https://modrinth.com/mod/BzOTnuqM")
+
+<img src="https://cdn.modrinth.com/data/BzOTnuqM/b406f1b685304e91a9ac51de490aa3521c8af484.png" width=250 height=250>
+<p>A mod adds all the fish from Sea of Thieves, fish fer ye pirate!</p>
+
+License: MIT License
+
+------
+
 ## [Forge Config API Port]("https://modrinth.com/mod/ohNO6lps")
 
 <img src="https://cdn.modrinth.com/data/ohNO6lps/icon.png" width=250 height=250>
 <p>Yes, you're reading that correctly. This is the whole Forge Config API ported to Fabric.</p>
 
 License: Mozilla Public License 2.0
+
+------
+
+## [Forgero]("https://modrinth.com/mod/wxKGvopS")
+
+<img src="https://cdn.modrinth.com/data/wxKGvopS/62e9e569bca417fd0277cadd9a81dadefbdd6afb.png" width=250 height=250>
+<p>Tool creation and customization mod with an immense amount of variations and possible upgrades.</p>
+
+License: MIT License
 
 ------
 
@@ -563,6 +652,15 @@ License: MIT License
 
 ------
 
+## [ItemSwapper]("https://modrinth.com/mod/RPOSBQgq")
+
+<img src="https://cdn.modrinth.com/data/RPOSBQgq/3e732c663c11291062cc08d8305e6a3f4763aa1d.png" width=250 height=250>
+<p>Inventory update concept for hotswapping items.</p>
+
+License: GNU Lesser General Public License v3.0 only
+
+------
+
 ## [Jingle]("https://modrinth.com/mod/wW4bfUnJ")
 
 <img src="https://cdn.modrinth.com/data/wW4bfUnJ/4d42c5699320d815dfdc087e747059cc08408f5f.png" width=250 height=250>
@@ -630,6 +728,15 @@ License: Creative Commons Attribution Non Commercial No Derivatives 4.0 Internat
 
 <img src="https://cdn.modrinth.com/data/gvQqBUqZ/icon.png" width=250 height=250>
 <p>No-compromises game logic/server optimization mod</p>
+
+License: GNU Lesser General Public License v3.0 only
+
+------
+
+## [Lovely Snails]("https://modrinth.com/mod/hBVVhStr")
+
+<img src="https://cdn.modrinth.com/data/hBVVhStr/icon.png" width=250 height=250>
+<p>A Minecraft mod which adds some very cute snails.</p>
 
 License: GNU Lesser General Public License v3.0 only
 
@@ -842,6 +949,15 @@ License: MIT License
 
 ------
 
+## [Radiant Gear]("https://modrinth.com/mod/AtT9wm5O")
+
+<img src="https://cdn.modrinth.com/data/AtT9wm5O/1242e54747b9eb91b409dc05e425bc53feeeecdf.png" width=250 height=250>
+<p>A compatibility bridge between Curios API or Trinkets API and dynamic light mods such as Lucent or LambDynamicLights. Formerly known as Curious Lights.</p>
+
+License: GNU Lesser General Public License v3.0 only
+
+------
+
 ## [Reese's Sodium Options]("https://modrinth.com/mod/Bh37bMuy")
 
 <img src="https://cdn.modrinth.com/data/Bh37bMuy/icon.png" width=250 height=250>
@@ -1022,6 +1138,15 @@ License: MIT License
 
 ------
 
+## [Vanilla Food Types]("https://modrinth.com/mod/ToiKj0n3")
+
+<img src="https://cdn.modrinth.com/data/ToiKj0n3/b14be6e0f414d9647a93102e0df36e6e42da8ba8.png" width=250 height=250>
+<p>A simple mod to add multiple vanilla style foods</p>
+
+License: Creative Commons Zero v1.0 Universal
+
+------
+
 ## [Visuality]("https://modrinth.com/mod/rI0hvYcd")
 
 <img src="https://cdn.modrinth.com/data/rI0hvYcd/5c866549318e907bbfe0d525afe43cb17a36a481.png" width=250 height=250>
@@ -1055,6 +1180,15 @@ License: MIT License
 <p>The cape shouldn't be a static slab</p>
 
 License: 
+
+------
+
+## [Wilder Wild]("https://modrinth.com/mod/AtHRJSUW")
+
+<img src="https://cdn.modrinth.com/data/AtHRJSUW/icon.png" width=250 height=250>
+<p>This mod aims to upgrade the Wild Update!</p>
+
+License: GNU Lesser General Public License v3.0 only
 
 ------
 
@@ -1102,6 +1236,5 @@ License: Creative Commons Attribution Non Commercial 4.0 International
 License: GNU Lesser General Public License v3.0 only
 
 ------
-
 
 </details><!--}}}-->
