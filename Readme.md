@@ -1,5 +1,5 @@
 
-A Vanilla+ modpack with some opinionated additions (TBD).
+A Vanilla+ modpack with some opinionated additions.
 
 # Opinionated additions:
 
