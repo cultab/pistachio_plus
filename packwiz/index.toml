@@ -88,6 +88,11 @@ hash = "1032be27cba97e6f12e060b210d7df3d3f3cae3099a66f1b1bb4c13b17786016"
 metafile = true
 
 [[files]]
+file = "mods/almost-unified.pw.toml"
+hash = "e531435e9c7f15740cd0d0b3350dc1c7513eb6cbe38b1004d5eceb2685b6d848"
+metafile = true
+
+[[files]]
 file = "mods/amecs.pw.toml"
 hash = "60ab436fb292c5f4773d583622973b3c61f0abbb43c7f009b4016e028ffeb55b"
 metafile = true
