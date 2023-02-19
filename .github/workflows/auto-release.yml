@@ -24,9 +24,9 @@ jobs:
           cd pistachio_plus/packwiz
           $HOME/go/bin/packwiz modrinth export
 
-      - name: Generate new tag version
-        id: version
-        uses: "flynshue/version-action@v0.0.1"
+      # - name: Generate new tag version
+      #   id: version
+      #   uses: "flynshue/version-action@v0.0.1"
 
       - name: Get modpack version
         id: version
