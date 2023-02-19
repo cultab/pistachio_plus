@@ -318,6 +318,11 @@ hash = "4c1b893d87c51588985c483fe33193ca03cf3673de998eef6eeb850d8928e7ab"
 metafile = true
 
 [[files]]
+file = "mods/fish-of-thieves.pw.toml"
+hash = "ef3c3710f24829beae24abd0b8b60973e13cc8992aa94597dd553af2cd8c3cf3"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "141d7b9b7aacccafe753464bc0171b33e54b778fd40cf458ac2b3ac051329e8d"
 metafile = true
