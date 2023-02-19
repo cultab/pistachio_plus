@@ -223,6 +223,11 @@ hash = "4a1efe77a42baa7c8eb76e1639ac85dc180a0fa855b42d9a94d9ccee606db4a6"
 metafile = true
 
 [[files]]
+file = "mods/craft-slabs-back-into-blocks.pw.toml"
+hash = "b87b865bd1db032bd453bf8e26a090454322beaf36891b83a057b3ed986c3c09"
+metafile = true
+
+[[files]]
 file = "mods/craftpresence.pw.toml"
 hash = "9ea670604ad1e591b39d327c77920dd0fffbe8456f6d05660aaeca7ff4af4746"
 metafile = true
