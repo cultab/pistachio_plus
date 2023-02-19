@@ -208,6 +208,11 @@ hash = "0419e14428771e095968f350521cc76469b11ab004fa1fbc2405dda6d0e7bb3d"
 metafile = true
 
 [[files]]
+file = "mods/coppernugget.pw.toml"
+hash = "85593804fd4150e2319a8d98fba621b660b3579b8bdb42addc610fe3cb1b0e1e"
+metafile = true
+
+[[files]]
 file = "mods/cosmetica.pw.toml"
 hash = "4a1efe77a42baa7c8eb76e1639ac85dc180a0fa855b42d9a94d9ccee606db4a6"
 metafile = true

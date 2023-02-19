@@ -1,0 +1,13 @@
+name = "Missing Nugget [Fabric/Forge]"
+filename = "coppernugget-1.19.3-0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/o0A3el15/versions/swpSnf0F/coppernugget-1.19.3-0.jar"
+hash-format = "sha1"
+hash = "03cb63fb43a2ed3b597c68bf86b0dcb1dcbadb94"
+
+[update]
+[update.modrinth]
+mod-id = "o0A3el15"
+version = "swpSnf0F"
