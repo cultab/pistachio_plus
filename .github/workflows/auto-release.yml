@@ -13,11 +13,11 @@ on:
 jobs:
   pre-release:
     permissions: write-all
-    name: "Pre Release"
+    name: "Auto release"
     runs-on: "ubuntu-latest"
 
     steps:
-      - name: "Build & test"
+      - name: Export to mrpack
         run: |
           go install github.com/packwiz/packwiz@latest
           git clone https://github.com/cultab/pistachio_plus.git
@@ -28,12 +28,13 @@ jobs:
         id: version
         uses: "flynshue/version-action@v0.0.1"
 
-      - uses: "marvinpinto/action-automatic-releases@latest"
+      - name: Create release
+        uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "${{ steps.version.outputs.version }}"
           prerelease: false
-          title: "Auto Release ${{ steps.version.outputs.version }}"
+          title: "Auto release ${{ steps.version.outputs.version }}"
           files: |
             pistachio_plus/Readme.md
             pistachio_plus/packwiz/*.mrpack
