@@ -673,6 +673,11 @@ hash = "55818f400233b503b748dbc65a7fbdc9c843a56cee0f9515068fe0948212cbc1"
 metafile = true
 
 [[files]]
+file = "mods/wilder-wild.pw.toml"
+hash = "538dcf37d0c0332c4cb0b8cdf45f3585dd3701ec908ae46c02890b6b14526718"
+metafile = true
+
+[[files]]
 file = "mods/wthit.pw.toml"
 hash = "b773ce492a4d164ce3cc9187dd0b4cb6a7bf932574a8fe97ea77dec2ad332b6e"
 metafile = true
