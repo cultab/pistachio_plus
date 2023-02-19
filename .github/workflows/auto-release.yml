@@ -17,11 +17,21 @@ jobs:
     runs-on: "ubuntu-latest"
 
     steps:
-      - name: Export to mrpack
+      - name: checkout
+        uses: actions/checkout@v3
+
+      - name: Install go
+        uses: actions/setup-go@v3
+        with: 
+          go-version: 1.19
+
+      - name: Install packwiz
         run: |
           go install github.com/packwiz/packwiz@latest
-          git clone https://github.com/cultab/pistachio_plus.git
-          cd pistachio_plus/packwiz
+
+      - name: Export to mrpack
+        run: |
+          cd packwiz
           $HOME/go/bin/packwiz modrinth export
           version=$(cat pack.toml | grep 'version ' | cut -f 2 -d '"')
           echo "version=${version}" >> $GITHUB_ENV
@@ -34,6 +44,6 @@ jobs:
           prerelease: false
           title: "v${{ env.version }}"
           files: |
-            pistachio_plus/Readme.md
-            pistachio_plus/packwiz/*.mrpack
+            Readme.md
+            packwiz/*.mrpack
           
