@@ -28,13 +28,25 @@ jobs:
         id: version
         uses: "flynshue/version-action@v0.0.1"
 
+      - name: Get modpack version
+        id: version
+        run: | 
+          version=$(cat $HOME/pistachio_plus/packwiz/pack.toml | grep 'version ' | cut -f 2 -d '"')
+          echo "version=${version}" >> $GITHUB_OUTPUT
+
+      - name: Get date
+        id: date
+        run: |
+          echo "date=$(date +%Y-%m-%d)" >> $GITHUB_OUTPUT
+
       - name: Create release
         uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
-          automatic_release_tag: "${{ steps.version.outputs.version }}"
+          automatic_release_tag: "v${{ steps.version.outputs.version }}"
           prerelease: false
-          title: "Auto release ${{ steps.version.outputs.version }}"
+          auto_generate_release_notes: true
+          title: "v${{ steps.version.outputs.version }}"
           files: |
             pistachio_plus/Readme.md
             pistachio_plus/packwiz/*.mrpack
