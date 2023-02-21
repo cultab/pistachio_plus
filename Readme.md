@@ -1,51 +1,22 @@
+# Pistachio Plus
 
 A Vanilla+ modpack with some opinionated additions.
 
-# Opinionated additions:
+## Opinionated additions:
 
-- CC: Restitched
-
-    Computers!
-
-- Cosmetica
-
-    Cosmetics and capes!
-
-- Do a Barrel Roll
-
-    Hard to fly Elytra!
-
-- Friends & Foes
-
-    All the mobs that lost the mob vote!
-
-- Happiness (is a) warm gun
-
-    Guns, guns, guns. No refunds!
-
-- LambDynamicLights
-
-    Bright things make light!
-
-- Plasmo Voice
-
-    Discord is boring!
-
-- Simple Copper Pipes
-
-    Pipes... made of copper!
-
-- Tax Free Levels
-
-    Enchanting is fun again!
-
-- Forgero
-
-    Basically Tinker's Contructs for fabric!
-
-- Wilder Wild
-
-    What The Wild Update should have been!
+| Mod:                      | Quick description:                       |
+| ------------------------- | ---------------------------------------- |
+| CC: Restitched            | Computers!                               |
+| Cosmetica                 | Cosmetics and capes!                     |
+| Do a Barrel Roll          | Hard to fly Elytra!                      |
+| Friends & Foes            | All the mobs that lost the mob vote!     |
+| Happiness (is a) warm gun | Guns, guns, guns. No refunds!            |
+| LambDynamicLights         | Bright things make light!                |
+| Plasmo Voice              | Discord is boring!                       |
+| Simple Copper Pipes       | Pipes... made of copper!                 |
+| Tax Free Levels           | Enchanting is fun again!                 |
+| Forgero                   | Basically Tinker's Contructs for fabric! |
+| Wilder Wild               | What The Wild Update should have been!   |
 
 <details><summary><b>📜 Full mods list</b></summary><!--{{{-->
 
