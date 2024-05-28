@@ -1,0 +1,13 @@
+name = "Reimagined | Fresh Animations Patch"
+filename = "§aReimagined§8-§aFA-PATCH§0_§8[v1.8.1]§0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Lf5l2Z41/versions/djsWaGiL/%C2%A7aReimagined%C2%A78-%C2%A7aFA-PATCH%C2%A70_%C2%A78%5Bv1.8.1%5D%C2%A70.zip"
+hash-format = "sha1"
+hash = "894bcf459f6bbae505aaa74f50a78f51cfe7035f"
+
+[update]
+[update.modrinth]
+mod-id = "Lf5l2Z41"
+version = "djsWaGiL"

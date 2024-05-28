@@ -1,0 +1,13 @@
+name = "Icons"
+filename = "Icons v.1.9.1§7.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/O7z3QKAG/versions/V6gZViNb/Icons%20v.1.9.1%C2%A77.zip"
+hash-format = "sha1"
+hash = "b3f631a1eac5528a827fc1afcc1b7345e060ebbd"
+
+[update]
+[update.modrinth]
+mod-id = "O7z3QKAG"
+version = "V6gZViNb"

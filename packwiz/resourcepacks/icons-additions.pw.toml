@@ -1,0 +1,13 @@
+name = "Icons -Additions"
+filename = "Icons - additions 1.0V.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/2aHPb3sX/versions/3BCuTQqb/Icons%20-%20additions%201.0V.zip"
+hash-format = "sha1"
+hash = "4b1b98213406cedc3748b34594362258991b55c0"
+
+[update]
+[update.modrinth]
+mod-id = "2aHPb3sX"
+version = "3BCuTQqb"

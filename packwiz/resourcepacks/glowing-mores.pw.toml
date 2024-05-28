@@ -1,0 +1,13 @@
+name = "Glowing mOres"
+filename = "Glowing mOres.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/3ooZ4g18/versions/1EC9IbJr/Glowing%20mOres.zip"
+hash-format = "sha1"
+hash = "35739fe2e39d6096651308fe8b4e3e3035bcb904"
+
+[update]
+[update.modrinth]
+mod-id = "3ooZ4g18"
+version = "1EC9IbJr"

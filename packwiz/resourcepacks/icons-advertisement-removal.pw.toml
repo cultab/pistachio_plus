@@ -1,0 +1,13 @@
+name = "Icons Advertisement Removal"
+filename = "Icons+Menu+(Put+Above+Icons).zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7Rq0ipFz/versions/4XI9gzRA/Icons%2BMenu%2B%28Put%2BAbove%2BIcons%29.zip"
+hash-format = "sha1"
+hash = "f4a7f876b6262fa9d7d48358392cb2ff4b9603fc"
+
+[update]
+[update.modrinth]
+mod-id = "7Rq0ipFz"
+version = "4XI9gzRA"

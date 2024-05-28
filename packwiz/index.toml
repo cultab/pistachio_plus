@@ -1,170 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/yosbr/config/PlasmoVoice/.crowdin/de_de.json"
-hash = "2bf3644d6b57c0966cd256d4b189b8ab4472cfc773a01997281aff2991ae97f6"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/.crowdin/es_es.json"
-hash = "a511c8336683e9d0ca0f9f05959f3d610bcdb0105cb96926ba0eed90b90a68ef"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/.crowdin/fr_fr.json"
-hash = "2e2290c32ca072971a694ccec274f55f67e68dfb88443e14e718b896a8a9c939"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/.crowdin/he_il.json"
-hash = "b33b3e0f842fe7257a774e85edd19f5afe393cf8511de74bdbbd0f41a35250e1"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/.crowdin/pl_pl.json"
-hash = "e2fdf0c9fb646b455d6edbfa610b48c7428dc1007459abfaff7e7df025c80f8f"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/.crowdin/pt_br.json"
-hash = "e99ed1c1c816f03e0dde7e65ee7b14a18a9ad537fe09572e6db73133787d2a8d"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/.crowdin/ru_ru.json"
-hash = "352bf48ad1620e6705a039cc69032dac874d2f2453125a133b4531a6cd2fad61"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/.crowdin/timestamp"
-hash = "f1b88c95885d895b1e5c5d3d09e667dabbc7f3ae2397fb5819e8118d487cfcd8"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/.crowdin/tt_ru.json"
-hash = "06c6943b0397873152e4f79b61fa94ee152062ffec817e58f11f54fb76b85ee4"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/.crowdin/uk_ua.json"
-hash = "6d6207e54d49664c420189e1fff3397ca75695874bb6ecd684ab342aaf885787"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/.crowdin/zh_cn.json"
-hash = "2a80993f8041d6e7910fe2c78339ff8d613796a7324fb5e544a3a3e270b5d997"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/.crowdin/zh_tw.json"
-hash = "537da35e71aaa0a727264fcd7fa02843f07dcb50c5ba9cbd4d1b52eab13a526a"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/client.toml"
-hash = "05de12757a34f496d680837ec6daaacc72d16cb3cad89f4dbe44c15e41d789f7"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/config.json"
-hash = "d72461af8956721d7b4cce4402423471a11f29f8644b8fb065b78b5ecbde3db4"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/config.toml"
-hash = "13fe566cdf2c1ceab1271db3c56c6cb10feef8cac5bb5ccc8c20e976cd08e093"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/.crowdin/de_de.toml"
-hash = "d0770d37f972451e92ff6157412c68dc6f47f15ccaf1a204fc20ce0a56c2bd51"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/.crowdin/es_es.toml"
-hash = "1ac5d89409ff04dd3fd12930d1477af3ec2043c3eb73ad427de7740d936770b7"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/.crowdin/fr_fr.toml"
-hash = "3c8a40e11ec7ca636c65c86839c79608c634cb44444749d8889028cab529c51e"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/.crowdin/he_il.toml"
-hash = "f60cd509bc40e2b54737a6305475cc86c438a41ebcf3dcdc564cfc537f70bae4"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/.crowdin/pl_pl.toml"
-hash = "6a4ecaaa39a832af19ffd91fbe84dd3bd0945a19ea3fdfba97fb5a0d89538038"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/.crowdin/pt_br.toml"
-hash = "562e59db276e06f2c6294b04f1b922f4ba50e8d22568bf3dd48570c37895f7aa"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/.crowdin/ru_ru.toml"
-hash = "e4ac04ab555f559d5103779d7336bfbae4a4cd167e023301feeeff9e0059fd24"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/.crowdin/timestamp"
-hash = "a2e002fcf056f74e67d654fb9ab66b859dfa7a6e8a877149cc8cc4558329e0e7"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/.crowdin/tt_ru.toml"
-hash = "6104dd51bc496bfc87bcd802af0c83ac1851769da8105c5f57392275efab4028"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/.crowdin/uk_ua.toml"
-hash = "a3907ef46ff03b4514d249d72eaa79472d7681f525342e4b75026617c0d873c1"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/.crowdin/zh_cn.toml"
-hash = "78920c3b680db933783c1a15b304e60c024476c52a7f98652685d7380340250e"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/.crowdin/zh_tw.toml"
-hash = "f88fefa13808ebcef1066765782c5881f44d85ca964b865e6f3f1bea0b32ed68"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/de_de.toml"
-hash = "a81cc4d0206db6dff41c067a316e853761d6f573dd4ccf7d796858a646cde827"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/en_us.toml"
-hash = "a3ffc8d6709904df88d81d4fddbf7c54185faf1595519a13288f78be8d287ced"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/es_es.toml"
-hash = "3db4f2b35c41bb9a527a9c25f07902ef406fc9364ce404b3100774e1f5acc00e"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/fr_fr.toml"
-hash = "f3cc21c415d9784105bb427df27b47a54a1bc903e2eb68dffb382a4c44490b88"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/he_il.toml"
-hash = "a450d0428c3e1e29464b34e666cf766261b9c0e93a69d6f93510bce9a6345d21"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/pl_pl.toml"
-hash = "4c00933f9fdb1ee21e20d422c1eccd45ca55edfd99868e5b1df99991f83d4cb5"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/pt_br.toml"
-hash = "1454c4c055fd955e43300682d7bbc6b0e466fa89ab5bb1478ac3f35ae2d87a4c"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/ru_ru.toml"
-hash = "d2fabcae73df223a5b81b27867227eb134e3b33187802dc3027b8991198c2053"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/tt_ru.toml"
-hash = "96f102f4f1219e2eaf45cdf120244ad71f83483fcc3c38eccc216f2d4144b754"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/uk_ua.toml"
-hash = "657f54cb39d30c195357caee7cb6bc1999cc3c89e866715301b41054ed6ea504"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/zh_cn.toml"
-hash = "71c74fb2d5c5e92c3cd1d3701978c1908b283e8ad2994d0d12a15d28b79c81e8"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/languages/zh_tw.toml"
-hash = "77ec221bb45e5e6d929f924821b0801a52acd7daf1d44fabbfc3d5aeb2bc114b"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/uStats.toml"
-hash = "91190130ae0225e22c18cd093ae48e520c8061fe2eda44f9e341d2f315d16d86"
-
-[[files]]
-file = "config/yosbr/config/PlasmoVoice/server/voice_mutes.json"
-hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
-
-[[files]]
 file = "config/yosbr/config/blockrunner.json"
 hash = "3108b0709f857adcc4dea973d1c0feb13213422ede82784611ea923a621ebb36"
 
@@ -191,34 +27,6 @@ hash = "195d64bbe953382519e30433d0cb74343cc6a7f24171fc471f0ccf4ad8e6975a"
 [[files]]
 file = "config/yosbr/config/neat-client.json5"
 hash = "efd5591fb61595f4a9660a5ab0d7912af6f968c5fee59d7afac9b9b7998419c3"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/collapsible.json5"
-hash = "a59667baa54738c1b294393a9b3652bcf7d392cdb8cba1c08a8006885b18e919"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "6160ec94650494d4cd143709d577d112e7611898ccbf48279e331f856e8c396f"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/favorites.json5"
-hash = "589c13e9ebbb9ae1b868d73be8c4e30323dcb03efacf59d75b9d614f1b069b47"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/hints.json"
-hash = "5ae426d6d7f7efcefada5efc6734f93bb8b610b6c043dca08e1f037ad01d47ca"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/pinyin.properties"
-hash = "11f26944f145c22d4394137976ee5c0d1c2a65998825847a6e6bc4b02426bc8f"
-
-[[files]]
-file = "config/yosbr/config/roughlyenoughitems/pinyin_double.properties"
-hash = "b168a196d8c2ec8c5e7883f9345afcd3e537668c66aa6eb452dd3a5a979fcd5f"
-
-[[files]]
-file = "config/yosbr/config/smoothswapping.json"
-hash = "3edb7a3cca0e7c3ec09f642516aba923bd8eba7ca414289a4103912fd24a7e66"
 
 [[files]]
 file = "config/yosbr/config/sodium-extra-options.json"
@@ -273,84 +81,12 @@ file = "config/yosbr/config/yigd.json"
 hash = "ce6bcd4454ecc1ee50ad60ac8b2c006c6f128118bc92549aecb3fc4fa7d34ba2"
 
 [[files]]
-file = "config/yosbr/config/yosbr/config/MouseTweaks.cfg"
-hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/PlasmoVoice/config.json"
-hash = "d72461af8956721d7b4cce4402423471a11f29f8644b8fb065b78b5ecbde3db4"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/craftpresence.json"
-hash = "8321868201b3fa72e92ac73e1bb37f64a0f881110fa59cd796259a616bfe7134"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/do_a_barrel_roll-client.json"
-hash = "2e4b9a514ddb154d28c37d580d48cc2cd4f3de21035dcd7cad6f83db9fca1c01"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/do_a_barrel_roll-server.json"
-hash = "bbc63b3cf436bae384ff1abd6e19f09cc1c4bdb70ca1c70d0ba25bbb11d3ae59"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/entityculling.json"
-hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/iris.properties"
-hash = "ef3c4ed11fcd15ba7d9b478a1210514ae832a1fdc42dbdcf9e7caef7a0b934b7"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/lambdynlights.toml"
-hash = "4125a8ce6ddb8f070ed4a39fce41e94b87379d2f9cfecbd2531f8b357340e753"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/legendarytooltips-common.toml"
-hash = "1123e7eb17bf0d44d19838da121eeb17d6cad39fa4c7e68089b235adb37b984b"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/mousewheelie.hjson"
-hash = "92e2cd7dfeefc93c29e363a2afd63922715214c3eb1b18361a9f09fae48184f5"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/roughlyenoughitems/config.json5"
-hash = "21fc68cac994d2194d1c25f88960757a26e3161506a18d9249b35706b15ae6a1"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/sodium-extra-options.json"
-hash = "883013496075590b2f628656d293bc090f74f64942bd23f862b0ff50d761ee83"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/sodium-options.json"
-hash = "a32c52228ca930779d73429e2e0732470e35610c39fbb828cf3b5c51986eebaa"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/waila/blacklist.json"
-hash = "640800920130d084dec5a3a7f52c10e18d72ed7faca522b5bcb6bb46d0dcae9b"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/waila/waila.json"
-hash = "a208f64521763deeb43a49d3f94c47f31454a6559370b47e861972dc1b976cfb"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/waila/waila_plugins.json"
-hash = "5f3008e1ad26f530252137a4927d4807dfaa2510cf64d15ee8f51400559e7258"
-
-[[files]]
-file = "config/yosbr/config/yosbr/config/zoomify.json"
-hash = "ac9927ec35db735f0b25e3813407556abfceb0e2ebc1d543a25147a94a8dd8c2"
-
-[[files]]
-file = "config/yosbr/config/yosbr/options.txt"
-hash = "535c6890db52d744921d5ef2eff1f32eb151c7beb03a1cebc0f4cb3a11cc328d"
-
-[[files]]
 file = "config/yosbr/config/zoomify.json"
 hash = "a7ccc02565cfc01be9d711b4149bf14d9c458c06c49ef1dde424afebb65ba208"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "535c6890db52d744921d5ef2eff1f32eb151c7beb03a1cebc0f4cb3a11cc328d"
+hash = "9b371ff45966ce9fcbcbf3dc6deffbf8eb7f5e0c4ee818f48d7af746e97a0a54"
 
 [[files]]
 file = "icon.png"
@@ -787,6 +523,11 @@ hash = "19cbba78c4982b15d10e44736a5fb7e992e477f6101799258d0ef7e03b288033"
 metafile = true
 
 [[files]]
+file = "mods/hearths.pw.toml"
+hash = "9b616f9d8b500033413086441f2b4c7dfee30645296accbcc2feaa72aa04392d"
+metafile = true
+
+[[files]]
 file = "mods/held-item-tooltips.pw.toml"
 hash = "d61ec313523785b4a65542848ccc414d2387c826754a9ffd5d6ed43ad87b95d7"
 metafile = true
@@ -992,11 +733,6 @@ hash = "5ec7e0e8cb5d8cd6b09f49f9a8eff32a4f7c8f95af37e076644f15ea0011583f"
 metafile = true
 
 [[files]]
-file = "mods/neat.pw.toml"
-hash = "fe999408e2d0eb8d9f57419284b9b6d7dbe1e637207017e56a0eba34da954bc0"
-metafile = true
-
-[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "7ca62a9da5c2ec9f0a8bed5394021c959e90077db16b313be44f4c8736f7fbf5"
 metafile = true
@@ -1084,6 +820,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "afc67b2e24da761efb6c7dcbc1ff7fa9efebd61118d065e75e20005138936188"
+metafile = true
+
+[[files]]
+file = "mods/resource-pack-overrides.pw.toml"
+hash = "7014242c0a3b2a5982767fd5b2be75e963a0811170a0123f7f423b6afac17361"
 metafile = true
 
 [[files]]
@@ -1232,6 +973,11 @@ hash = "6329304150f965b96090d4c45cf212b4ea5002a22e8ed1136419becc7adf6369"
 metafile = true
 
 [[files]]
+file = "mods/ultris.pw.toml"
+hash = "fbae272c03e36e382e39939f410fd5b9ae771a7b6f956890512f71c5a6a2d159"
+metafile = true
+
+[[files]]
 file = "mods/universal-enchants.pw.toml"
 hash = "e00cd603e92b6fe4721c930d5de2a7fb018b192033738767d828c91f08b43638"
 metafile = true
@@ -1272,6 +1018,16 @@ hash = "c2e5139e073df0c2c7420366d9ff07ae51c2baec65dc7966bf9c22e81d403f51"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "4c176f305e2b3c52b47c58d252a0e46e4a8d4b89043385090dae3e40e91ba0f9"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "d71dabaf362ddbae6f8fd3a8bb648b20b57bde93a1a59232c98da9e5403203d6"
+metafile = true
+
+[[files]]
 file = "mods/yacl.pw.toml"
 hash = "e5182e08336de4bff4901b4dd34b4e1a044f0e7a5e709b90b0fd80bfe9df7a41"
 metafile = true
@@ -1289,4 +1045,99 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "a2fcbfa66810d21fc67499ea6fc65b4c465110d52c92408f6c35d7c1e1f96c6d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/better-gui-for-toms-simple-storage.pw.toml"
+hash = "f626150982cd0733530b8dcb4022d452e2bbfc315d7becd3b86b54a57ed76880"
+metafile = true
+
+[[files]]
+file = "resourcepacks/ccc.pw.toml"
+hash = "697eb45ce873920529f7b74c0e55a09f7b093769478d0140e4cf4a5ffb4696ce"
+metafile = true
+
+[[files]]
+file = "resourcepacks/enchant-icons-countxd.pw.toml"
+hash = "e9e57742366174ee106acf48dbcbb2b03860b931600c8fbe1208961ca2661937"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations-extensions.pw.toml"
+hash = "9ae90521a736cc952b0cdcdc14c63b6c27712912d1aff428db28a006c94506c3"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "b57e4566ddd1f48bd1c3a726eed113eb1777fefb7ca1936173187c3fedb94d8f"
+metafile = true
+
+[[files]]
+file = "resourcepacks/glowing-mores.pw.toml"
+hash = "20127a5605046754fbef32eea621569d0e150f599e82f1a6ddbde4a68920c10c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons-additions.pw.toml"
+hash = "73914be12cbdb00b94e76ec00282d998d6394749a7c391bb985e1174dbb74672"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons-advertisement-removal.pw.toml"
+hash = "52ff33e4ca08eebe58ba8ae2c14e63668ada8f5eadd93e5aaac68b4d3ec3a176"
+metafile = true
+
+[[files]]
+file = "resourcepacks/icons.pw.toml"
+hash = "f96599c5b850458ad3d6b0dd6e234baa2ecc63ca635cec9827d2b8e005721a7d"
+metafile = true
+
+[[files]]
+file = "resourcepacks/reimagined-fresh-animations-patch.pw.toml"
+hash = "4ef03bd78d35647ffefb047e3918c84b53f26f744b4d5fd725aa0e28c8c8be13"
+metafile = true
+
+[[files]]
+file = "resourcepacks/reimagined.pw.toml"
+hash = "9ac4d22bafb03fee5c0cb9c8c46dfd3a817987bf77586077715192ef74235874"
+metafile = true
+
+[[files]]
+file = "resourcepacks/toms-create-storage.pw.toml"
+hash = "b4110ca093569b5df0f4f74651f3ec241f11f1ab24ce1ecb15bdb7e8a4f6972c"
+metafile = true
+
+[[files]]
+file = "resourcepacks/tras-fresh-player.pw.toml"
+hash = "26a9280a093721c7260962fb160fa18a345b313d99b0a7acf1f7ab9d2c349a45"
+metafile = true
+
+[[files]]
+file = "resourcepacks/unofficial-reimagined-trinkets-patch.pw.toml"
+hash = "8e5c36aaccbaeddc03522115c257c38a54a3dab5e7038b87a7515ece02dc68be"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-bushy-leaves.pw.toml"
+hash = "05bb1450805e083d53e49c7aaed94372864dc83a448b11f6473303bcebe32841"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enchanted-books-addon.pw.toml"
+hash = "5c00199df5da4a794e6f04502dae95b9532fc4409f623ad70b4cdf140e461840"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-enchanted-books.pw.toml"
+hash = "81e456094c4decb60cd5af5e7eaf53d9b3ba775aa05ea319c99d2325e60ca6a0"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-potion.pw.toml"
+hash = "caa9d2feb7486744c97a51da732b6714dd97fe6e09f91b92c0c99ee1ca0ab8f1"
+metafile = true
+
+[[files]]
+file = "resourcepacks/xalis-potions-addon.pw.toml"
+hash = "7751a6838974ed80bfa3e9f2157a48b867c04a5d234d485b0e999f23b179fd0f"
 metafile = true

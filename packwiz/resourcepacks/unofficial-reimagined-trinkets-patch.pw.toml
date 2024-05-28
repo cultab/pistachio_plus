@@ -1,0 +1,13 @@
+name = "Unofficial Reimagined Trinkets Patch"
+filename = "§aTrinkets Patch - Dark.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/4Scighbp/versions/j9mKM3FP/%C2%A7aTrinkets%20Patch%20-%20Dark.zip"
+hash-format = "sha1"
+hash = "7cdc041b21ace21d37107e1f76a8dbae49859873"
+
+[update]
+[update.modrinth]
+mod-id = "4Scighbp"
+version = "j9mKM3FP"

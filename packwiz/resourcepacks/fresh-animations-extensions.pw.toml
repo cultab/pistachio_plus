@@ -1,0 +1,13 @@
+name = "Fresh Animations Extensions"
+filename = "FA+All_Extensions-v1.3.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d246f76a9832fbaf747b2ac8a0c376dcfacc149c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5159356
+project-id = 813608

@@ -1,0 +1,13 @@
+name = "xali's Bushy Leaves"
+filename = "xali's Bushy Leaves v3.5.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/ff4JOkSA/versions/ZslQczG8/xali%27s%20Bushy%20Leaves%20v3.5.0.zip"
+hash-format = "sha1"
+hash = "136d239b79dd4c1801c9461bf20a13c774d517ea"
+
+[update]
+[update.modrinth]
+mod-id = "ff4JOkSA"
+version = "ZslQczG8"
