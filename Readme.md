@@ -6,11 +6,11 @@ A Vanilla+ modpack with some opinionated additions.
 
 | Mod:                      | Quick description:                       |
 | ------------------------- | ---------------------------------------- |
+| Create                    | You know the one!                        |
 | CC: Restitched            | Computers!                               |
 | Cosmetica                 | Cosmetics and capes!                     |
 | Do a Barrel Roll          | Hard to fly Elytra!                      |
 | Friends & Foes            | All the mobs that lost the mob vote!     |
-| Happiness (is a) warm gun | Guns, guns, guns. No refunds!            |
 | LambDynamicLights         | Bright things make light!                |
 | Plasmo Voice              | Discord is boring!                       |
 | Simple Copper Pipes       | Pipes... made of copper!                 |
@@ -53,6 +53,15 @@ License: MIT License
 <p>Unify all resources.</p>
 
 License: GNU Lesser General Public License v3.0 only
+
+------
+
+## [Alternate Current]("https://modrinth.com/mod/r0v8vy1s")
+
+<img src="https://cdn.modrinth.com/data/r0v8vy1s/fbb5a094676807df4b5ca1686033d5eb5fc389fd.png" width=250 height=250>
+<p>An efficient and non-locational redstone dust implementation</p>
+
+License: MIT License
 
 ------
 
@@ -101,28 +110,10 @@ License: GNU Lesser General Public License v3.0 only
 
 ------
 
-## [AutoModpack]("https://modrinth.com/mod/k68glP2e")
-
-<img src="https://cdn.modrinth.com/data/k68glP2e/c740fec7440ec86fe86165f393c86cbf30401f51.png" width=250 height=250>
-<p>Say goodbye to manual modpack installation with Automodpack mod, for effortless updates and easy management.</p>
-
-License: GNU General Public License v3.0 only
-
-------
-
 ## [Axes Are Weapons]("https://modrinth.com/mod/1jvt7RTc")
 
 <img src="https://cdn.modrinth.com/data/1jvt7RTc/icon.png" width=250 height=250>
 <p>Disables the increased durability loss in combat and enables Looting for axes</p>
-
-License: MIT License
-
-------
-
-## [AzureLib]("https://modrinth.com/mod/7zlUOZvb")
-
-<img src="https://cdn.modrinth.com/data/7zlUOZvb/66d06765aa9dd2e2005b0ad36bd4ba2f410bddaa.png" width=250 height=250>
-<p>Based off Geckolib but now just for my own needs.</p>
 
 License: MIT License
 
@@ -137,12 +128,12 @@ License: Apache License 2.0
 
 ------
 
-## [BCLib]("https://modrinth.com/mod/BgNRHReB")
+## [Better Advancements]("https://modrinth.com/mod/Q2OqKxDG")
 
-<img src="https://cdn.modrinth.com/data/BgNRHReB/1b057bebe91712f5d135b2240baaffa8cd3cf065.png" width=250 height=250>
-<p>A Library Mod for the BetterX Team</p>
+<img src="https://cdn.modrinth.com/data/Q2OqKxDG/b1519a191e62135647f66394d526d179ab5b598d.png" width=250 height=250>
+<p>Better Advancements tries to improve the UI and UX for the advancements system in minecraft 1.12+ in a modded environment</p>
 
-License: MIT License
+License: 
 
 ------
 
@@ -164,21 +155,39 @@ License: GNU Lesser General Public License v3.0 only
 
 ------
 
-## [BetterEnd]("https://modrinth.com/mod/gc8OEnCC")
+## [Better Than Mending]("https://modrinth.com/mod/Lvv4SHrK")
 
-<img src="https://cdn.modrinth.com/data/gc8OEnCC/22fdef19992a21f7a16e53eb0ff2fe5e59766003.png" width=250 height=250>
-<p>New Biomes, mysterious rituals and Mobs for your End</p>
+<img src="https://cdn.modrinth.com/data/Lvv4SHrK/icon.png" width=250 height=250>
+<p> A small quality of life tweak to the Mending enchantment </p>
+
+License: GNU Lesser General Public License v3.0 only
+
+------
+
+## [Better Tridents]("https://modrinth.com/mod/KNUSlHiU")
+
+<img src="https://cdn.modrinth.com/data/KNUSlHiU/icon.png" width=250 height=250>
+<p>You did not know your trident could do that!</p>
+
+License: Mozilla Public License 2.0
+
+------
+
+## [BetterF3]("https://modrinth.com/mod/8shC1gFX")
+
+<img src="https://cdn.modrinth.com//data/8shC1gFX/icon.png" width=250 height=250>
+<p>BetterF3 is a mod that replaces Minecraft's original debug HUD with a highly customizable, more human-readable HUD.</p>
 
 License: MIT License
 
 ------
 
-## [BetterNether]("https://modrinth.com/mod/MpzVLzy5")
+## [Block Runner]("https://modrinth.com/mod/1VSGxqkt")
 
-<img src="https://cdn.modrinth.com/data/MpzVLzy5/d35c76a6051d79b35ac33668772ee5a35f2c1f8e.png" width=250 height=250>
-<p>More Biomes, More Mobs, More Tools for the fiery Dimension</p>
+<img src="https://cdn.modrinth.com/data/1VSGxqkt/icon.png" width=250 height=250>
+<p>Encourages path building by making you run faster on certain blocks such as path blocks.</p>
 
-License: MIT License
+License: Mozilla Public License 2.0
 
 ------
 
@@ -191,12 +200,30 @@ License: MIT License
 
 ------
 
-## [CC: Restitched]("https://modrinth.com/mod/eldBwa5V")
+## [Carry On]("https://modrinth.com/mod/joEfVgkn")
 
-<img src="https://cdn.modrinth.com/data/eldBwa5V/icon.png" width=250 height=250>
-<p>ComputerCraft Tweaked for Fabric</p>
+<img src="https://cdn.modrinth.com/data/joEfVgkn/d07cc032da5a9854489ab5ae443c91c1147792bc.png" width=250 height=250>
+<p>Carry On allows you to pick up Tile Entities and Mobs and carry them around!</p>
+
+License: GNU Lesser General Public License v3.0 only
+
+------
+
+## [CC: Tweaked]("https://modrinth.com/mod/gu7yAYhd")
+
+<img src="https://cdn.modrinth.com/data/gu7yAYhd/icon.png" width=250 height=250>
+<p>ComputerCraft fork adding programmable computers, turtles and more to Minecraft.</p>
 
 License: 
+
+------
+
+## [CC:C Bridge]("https://modrinth.com/mod/fXt291FO")
+
+<img src="https://cdn.modrinth.com/data/fXt291FO/0a7670a36212340465e689bbd107e921a45065ad.webp" width=250 height=250>
+<p>Adds compatibility between the ComputerCraft and Create mod with peripherals!</p>
+
+License: Apache License 2.0
 
 ------
 
@@ -218,6 +245,15 @@ License: MIT License
 
 ------
 
+## [Chisel Reborn]("https://modrinth.com/mod/4KWv7wbN")
+
+<img src="https://cdn.modrinth.com/data/4KWv7wbN/icon.png" width=250 height=250>
+<p>Adds lots of blocks that are variations of vanilla blocks</p>
+
+License: 
+
+------
+
 ## [Chunks fade in]("https://modrinth.com/mod/JaNmzvA8")
 
 <img src="https://cdn.modrinth.com/data/JaNmzvA8/e9b2e86179280fc209c0cbc5de36b5946fc7cb50.jpeg" width=250 height=250>
@@ -233,6 +269,15 @@ License: GNU General Public License v3.0 only
 <p>Pre-generates chunks, quickly and efficiently</p>
 
 License: GNU General Public License v3.0 only
+
+------
+
+## [CICADA]("https://modrinth.com/mod/IwCkru1D")
+
+<img src="https://cdn.modrinth.com/data/IwCkru1D/53eee5642c7c426729b8313628b83f8513322484.png" width=250 height=250>
+<p>Confusing, Interesting and Considerably Agnostic Development Aid</p>
+
+License: MIT License
 
 ------
 
@@ -281,12 +326,39 @@ License: GNU Lesser General Public License v3.0 only
 
 ------
 
+## [Clumps]("https://modrinth.com/mod/Wnxd13zP")
+
+<img src="https://cdn.modrinth.com/data/Wnxd13zP/e723aa383ad7161a541242097e1d3223f582b967.gif" width=250 height=250>
+<p>Clumps XP orbs together to reduce lag</p>
+
+License: MIT License
+
+------
+
 ## [Collective]("https://modrinth.com/mod/e0M1UDsY")
 
 <img src="https://cdn.modrinth.com/data/e0M1UDsY/icon.png" width=250 height=250>
 <p>🎓 Collective is a shared library with common code for all of Serilum's mods.</p>
 
 License: 
+
+------
+
+## [Continuity]("https://modrinth.com/mod/1IjD5062")
+
+<img src="https://cdn.modrinth.com/data/1IjD5062/icon.png" width=250 height=250>
+<p>A Fabric mod that allows for efficient connected textures</p>
+
+License: GNU Lesser General Public License v3.0 only
+
+------
+
+## [Controlling]("https://modrinth.com/mod/xv94TkTM")
+
+<img src="https://cdn.modrinth.com/data/xv94TkTM/d0ae59393a10daa261905091329e56bf8a69c38a.png" width=250 height=250>
+<p>Adds a search bar to the Key-Bindings menu</p>
+
+License: MIT License
 
 ------
 
@@ -317,6 +389,15 @@ License: Creative Commons Zero v1.0 Universal
 
 ------
 
+## [Create: Copycats+]("https://modrinth.com/mod/UT2M39wf")
+
+<img src="https://cdn.modrinth.com/data/UT2M39wf/c08340f503f781f1a260c3dd813e83bbec5abb5e.webp" width=250 height=250>
+<p>All the copycats you've ever wanted, combined into a single mod!</p>
+
+License: 
+
+------
+
 ## [Cosmetica]("https://modrinth.com/mod/s9hF9QGp")
 
 <img src="https://cdn.modrinth.com/data/s9hF9QGp/e954c4883e72f95d8e799d167171cde74b059b51.gif" width=250 height=250>
@@ -344,12 +425,102 @@ License: MIT License
 
 ------
 
-## [DashLoader]("https://modrinth.com/mod/ZfQ3kTvR")
+## [Create Deco Additions]("https://modrinth.com/mod/HrsF061q")
 
-<img src="https://cdn.modrinth.com/data/ZfQ3kTvR/icon.png" width=250 height=250>
-<p>Launch at the speed of light.</p>
+<img src="https://cdn.modrinth.com/data/HrsF061q/d5bfde52a3955917e6e251b54b1839e4a1d52a4a.png" width=250 height=250>
+<p>Adds mod compatibility for many mods by changing Create Deco's tags to the official ones.</p>
+
+License: MIT License
+
+------
+
+## [Create Deco]("https://modrinth.com/mod/sMvUb4Rb")
+
+<img src="https://cdn.modrinth.com/data/sMvUb4Rb/568feacea08ddad4bf91f5e5c396b76a7cba3e30.png" width=250 height=250>
+<p>Industrial decoration themed around the aesthetics of the Create mod.</p>
 
 License: GNU Lesser General Public License v3.0 only
+
+------
+
+## [Create Enchantment Industry Fabric]("https://modrinth.com/mod/AEZO385x")
+
+<img src="https://cdn.modrinth.com/data/AEZO385x/bf7d6069c96ac03cdf211bf65680998b90b3d832.png" width=250 height=250>
+<p>Automatic Enchanting, with Create</p>
+
+License: MIT License
+
+------
+
+## [Create Fabric]("https://modrinth.com/mod/Xbc0uyRg")
+
+<img src="https://cdn.modrinth.com/data/Xbc0uyRg/f9d7c09397588b690cf3c09303d7812837b2caab.png" width=250 height=250>
+<p>Building Tools and Aesthetic Technology</p>
+
+License: MIT License
+
+------
+
+## [Create Jetpack]("https://modrinth.com/mod/UbFnAd4l")
+
+<img src="https://cdn.modrinth.com/data/UbFnAd4l/ead82e9cb62f56962626d1506e5ced3c781df0bf.png" width=250 height=250>
+<p>Upgrade your backtank and utilize the pressurized air to fly</p>
+
+License: 
+
+------
+
+## [Create: Armor Trims]("https://modrinth.com/mod/Q4F90RHI")
+
+<img src="https://cdn.modrinth.com/data/Q4F90RHI/635f2c7dd0142f45ef6e9ae73af86ab711b5ecdc.png" width=250 height=250>
+<p>Trim your armor with materials from Create.</p>
+
+License: MIT License
+
+------
+
+## [Create: Structures]("https://modrinth.com/mod/IAnP4np7")
+
+<img src="https://cdn.modrinth.com/data/IAnP4np7/0c69bfc4fb1df010c35c02f94ebc275ba0fa9bae.png" width=250 height=250>
+<p>Add-on for Create that implements naturally generating structures containing early-game Create contraptions and items.</p>
+
+License: 
+
+------
+
+## [Create Utilities]("https://modrinth.com/mod/PRHeWeBs")
+
+<img src="https://cdn.modrinth.com/data/PRHeWeBs/65f6d91e02f34f3aaad12c206c5231453c1eb56c.png" width=250 height=250>
+<p>A Create Addon that primarily adds ender-like blocks. Experience the power of the void motor, void chest, and void tank as you effortlessly transport rotation, items and fluids.</p>
+
+License: MIT License
+
+------
+
+## [Create Crafts & Additions]("https://modrinth.com/mod/kU1G12Nn")
+
+<img src="https://cdn.modrinth.com/data/kU1G12Nn/543e9fba168a8a5fc24764d79ad42f872aaf1920.png" width=250 height=250>
+<p>Create Crafts & Additions extends Create and acts as a bridge between electricity and kinetic energy</p>
+
+License: MIT License
+
+------
+
+## [Cut Through]("https://modrinth.com/mod/Dk6su9JN")
+
+<img src="https://cdn.modrinth.com/data/Dk6su9JN/48d63d2a8c23d95219a44e7a7fd8808c53c71ebc.png" width=250 height=250>
+<p>Cleanly swing through transparent blocks like tall grass to hit mobs without breaking said block.</p>
+
+License: Mozilla Public License 2.0
+
+------
+
+## [Damage Numbers]("https://modrinth.com/mod/iWdXs2dQ")
+
+<img src="https://cdn.modrinth.com/data/iWdXs2dQ/a267af77da4c8380e57bfa8258a5abd3b98547cc.png" width=250 height=250>
+<p>Adds simple damage number particles when any entity takes damage</p>
+
+License: 
 
 ------
 
@@ -407,6 +578,15 @@ License: MIT License
 
 ------
 
+## [Easy Shulker Boxes]("https://modrinth.com/mod/gA5euN8S")
+
+<img src="https://cdn.modrinth.com/data/gA5euN8S/icon.png" width=250 height=250>
+<p>Supercharge shulkes boxes, bundles and backpacks! Fully useable in your inventory with many intuitive interactions.</p>
+
+License: Mozilla Public License 2.0
+
+------
+
 ## [Eating Animation [Fabric]]("https://modrinth.com/mod/rUgZvGzi")
 
 <img src="https://cdn.modrinth.com//data/rUgZvGzi/icon.gif" width=250 height=250>
@@ -416,10 +596,28 @@ License: MIT License
 
 ------
 
-## [EditSign]("https://modrinth.com/mod/hFMCvH85")
+## [Eccentric Tome (Fabric)]("https://modrinth.com/mod/MT9K1XQ0")
 
-<img src="https://cdn.modrinth.com/data/hFMCvH85/icon.png" width=250 height=250>
-<p>Allow you to edit signs</p>
+<img src="https://cdn.modrinth.com/data/MT9K1XQ0/0d8cc99723c891f97d7c7504099b336469e796df.png" width=250 height=250>
+<p>The book to end all books (Fabric port)</p>
+
+License: GNU Lesser General Public License v3.0 only
+
+------
+
+## [Ender Zoology]("https://modrinth.com/mod/CUQhzQjg")
+
+<img src="https://cdn.modrinth.com/data/CUQhzQjg/bc15cec43e6ed3f055035cf78f3b38417a67ef5f.png" width=250 height=250>
+<p>Vanilla themed monsters to add some difficulty to the game. A remake of Ender Zoo.</p>
+
+License: Creative Commons Zero v1.0 Universal
+
+------
+
+## [[EMF] Entity Model Features]("https://modrinth.com/mod/4I1XuqiY")
+
+<img src="https://cdn.modrinth.com/data/4I1XuqiY/7a6acd528931a1a0d1b60fd0925b88227fb345cc.png" width=250 height=250>
+<p>EMF is an, OptiFine format, Custom Entity Model replacement mod available for Fabric and Forge.</p>
 
 License: GNU Lesser General Public License v3.0 only
 
@@ -449,6 +647,15 @@ License: GNU Lesser General Public License v3.0 only
 <p>Makes it easier to compare equipment by showing a tooltip for what you're already wearing.</p>
 
 License: Creative Commons Attribution Non Commercial No Derivatives 4.0 International
+
+------
+
+## [Expanded Storage]("https://modrinth.com/mod/jCCPlP3c")
+
+<img src="https://cdn.modrinth.com/data/jCCPlP3c/a6ca35b0239e67089a9c6a9a703ebb3b7be80fed.png" width=250 height=250>
+<p>A mod adding various storage types, including double iron chests.</p>
+
+License: 
 
 ------
 
@@ -501,6 +708,15 @@ License: MIT License
 
 <img src="https://cdn.modrinth.com/data/WhbRG4iK/icon.gif" width=250 height=250>
 <p>Adds a neat little particle effect to leaf blocks</p>
+
+License: MIT License
+
+------
+
+## [Farmer's Delight Refabricated]("https://modrinth.com/mod/7vxePowz")
+
+<img src="https://cdn.modrinth.com/data/7vxePowz/26e8448993e9bda4dba92b6e7a1a13d9c4333138.png" width=250 height=250>
+<p>Modern Fabric port of the cooking and farming mod, "Farmer's Delight"</p>
 
 License: MIT License
 
@@ -560,12 +776,30 @@ License: Creative Commons Attribution Non Commercial No Derivatives 4.0 Internat
 
 ------
 
-## [Happiness (is a) Warm Gun]("https://modrinth.com/mod/SPMW1tzD")
+## [Fusion (Connected Textures)]("https://modrinth.com/mod/p19vrgc2")
 
-<img src="https://cdn.modrinth.com/data/SPMW1tzD/icon.png" width=250 height=250>
-<p>Simple but nice gun mod</p>
+<img src="https://cdn.modrinth.com/data/p19vrgc2/04f53d5c523d78f6b73533e71aa60e60f1f99249.png" width=250 height=250>
+<p>Fusion allows resource packs to use additional texture and model types such as connected textures!</p>
 
 License: 
+
+------
+
+## [Geckolib]("https://modrinth.com/mod/8BmcQJ2H")
+
+<img src="https://cdn.modrinth.com/data/8BmcQJ2H/7638e6cddbc4d675c3dd874c8be5ae01efcfe31b.png" width=250 height=250>
+<p>A 3D animation library for entities, blocks, items, armor, and more!</p>
+
+License: MIT License
+
+------
+
+## [Held Item Tooltips]("https://modrinth.com/mod/3wWtgZGB")
+
+<img src="https://cdn.modrinth.com/data/3wWtgZGB/beede8b0e26221e662458f7358284b155bc11ee7.png" width=250 height=250>
+<p>See item enchantments, potion effects, shulker box contents and much more directly above your hotbar.</p>
+
+License: Mozilla Public License 2.0
 
 ------
 
@@ -575,6 +809,15 @@ License:
 <p>QOL tweaks for horses</p>
 
 License: Creative Commons Attribution Non Commercial Share Alike 4.0 International
+
+------
+
+## [Hybrid Aquatic]("https://modrinth.com/mod/HH4FjUqN")
+
+<img src="https://cdn.modrinth.com/data/HH4FjUqN/0fff5e462931dc28cb66df478b1dc8e61acc5fc3.png" width=250 height=250>
+<p>Hybrid Aquatic is a Fabric mod that enhances your underwater Minecraft experience! Explore improved rivers, swamps, oceans, and undersea caves with new creatures, blocks, and (coming soon) biomes.</p>
+
+License: 
 
 ------
 
@@ -602,6 +845,33 @@ License: GNU General Public License v3.0 only
 <p>Sodium addon providing support for the Fabric Rendering API, based on Indigo</p>
 
 License: Apache License 2.0
+
+------
+
+## [Infinite Anvil Uses]("https://modrinth.com/mod/8NF31VRx")
+
+<img src="https://cdn.modrinth.com/data/8NF31VRx/00758ecb0a87a489f3903b21d887866314c8d634.png" width=250 height=250>
+<p>This mod removes the "Too expensive!" feature from anvils.</p>
+
+License: GNU General Public License v3.0 only
+
+------
+
+## [Inventory Sorting]("https://modrinth.com/mod/5ibSyLAz")
+
+<img src="https://cdn.modrinth.com/data/5ibSyLAz/5590c9168b256a538bcc7704f2984b7ee29f9c1b.png" width=250 height=250>
+<p>Quick, simple, and lightweight inventory sorting</p>
+
+License: MIT License
+
+------
+
+## [Iris & Oculus Flywheel Compat]("https://modrinth.com/mod/ndHYMY2K")
+
+<img src="https://cdn.modrinth.com/data/ndHYMY2K/7d3794f7fdc4974ce4386bfc3e0ec27140a33de5.png" width=250 height=250>
+<p>Enable Flywheel's optimizations when using shaderpacks.</p>
+
+License: Creative Commons Zero v1.0 Universal
 
 ------
 
@@ -638,6 +908,15 @@ License: GNU Lesser General Public License v3.0 only
 <p>A fabric mod to alert you when you load into a world or the title screen.</p>
 
 License: GNU General Public License v3.0 only
+
+------
+
+## [JourneyMap]("https://modrinth.com/mod/lfHFW1mp")
+
+<img src="https://cdn.modrinth.com/data/lfHFW1mp/icon.png" width=250 height=250>
+<p>Real-time mapping in game or in a web browser as you explore.</p>
+
+License: 
 
 ------
 
@@ -686,12 +965,30 @@ License: MIT License
 
 ------
 
+## [Leave My Bars Alone]("https://modrinth.com/mod/gK9mebQg")
+
+<img src="https://cdn.modrinth.com/data/gK9mebQg/7c1e2595b5debbe94f6c5a307ce8182c8041df1e.png" width=250 height=250>
+<p>Makes your food and experience bars visible when riding on a horse.</p>
+
+License: Mozilla Public License 2.0
+
+------
+
 ## [Legendary Tooltips]("https://modrinth.com/mod/atHH8NyV")
 
 <img src="https://cdn.modrinth.com/data/atHH8NyV/be363570c1dd3e0954712949ecad2600893bf36f.png" width=250 height=250>
 <p>Give your rare items a fancier tooltip! Also adds additional tooltip configuration options.</p>
 
 License: Creative Commons Attribution Non Commercial No Derivatives 4.0 International
+
+------
+
+## [Lighty]("https://modrinth.com/mod/yjvKidNM")
+
+<img src="https://cdn.modrinth.com/data/yjvKidNM/aee2a3e0b3c10c82f76597edfef48d31966b2459.png" width=250 height=250>
+<p>The Light Overlay Mod with a twist!</p>
+
+License: Apache License 2.0
 
 ------
 
@@ -731,12 +1028,30 @@ License: MIT License
 
 ------
 
+## [ul]("https://modrinth.com/mod/")
+
+<img src="ul" width=250 height=250>
+<p>the requested route does not exist</p>
+
+License: ul
+
+------
+
 ## [Memory Leak Fix]("https://modrinth.com/mod/NRjRiSSD")
 
 <img src="https://cdn.modrinth.com/data/NRjRiSSD/icon.png" width=250 height=250>
 <p>A mod that fixes random memory leaks for both the client and server</p>
 
 License: GNU Lesser General Public License v2.1 only
+
+------
+
+## [Metal Bundles]("https://modrinth.com/mod/6pY6oEMg")
+
+<img src="https://cdn.modrinth.com/data/6pY6oEMg/cb00657c62c88cd9955dce8c0e77550c1f607494.png" width=250 height=250>
+<p>Use bundles like never before with many intuitive interactions. And there's more bundles, much larger!</p>
+
+License: Mozilla Public License 2.0
 
 ------
 
@@ -785,6 +1100,24 @@ License: GNU General Public License v3.0 only
 
 ------
 
+## [ModernFix]("https://modrinth.com/mod/nmDcB62a")
+
+<img src="https://cdn.modrinth.com/data/nmDcB62a/e1d2433476995be1b1a94ff1afaf6167752274ae.png" width=250 height=250>
+<p>All-in-one mod that improves performance, reduces memory usage, and fixes many bugs. Compatible with all your favorite performance mods!</p>
+
+License: GNU Lesser General Public License v3.0 only
+
+------
+
+## [Modern KeyBinding]("https://modrinth.com/mod/rQszQPD2")
+
+<img src="https://cdn.modrinth.com/data/rQszQPD2/e4b204abb946cc4c59b8470ffb7dccbe5cb63699.png" width=250 height=250>
+<p>Port KeyModifier && KeyConflictContext back to Fabric & Early Forge</p>
+
+License: 
+
+------
+
 ## [Mod Menu]("https://modrinth.com/mod/mOgUt4GM")
 
 <img src="https://cdn.modrinth.com/data/mOgUt4GM/icon.png" width=250 height=250>
@@ -821,12 +1154,12 @@ License: Apache License 2.0
 
 ------
 
-## [Neat]("https://modrinth.com/mod/Ins7SzzR")
+## [Nature's Compass]("https://modrinth.com/mod/fPetb5Kh")
 
-<img src="https://cdn.modrinth.com/data/Ins7SzzR/c3de95659664960558b2e3555bd491933c6ff9ef.png" width=250 height=250>
-<p> Functional minimalistic Unit Frames for the modern Minecrafter </p>
+<img src="https://cdn.modrinth.com/data/fPetb5Kh/9b0d54f2a8d9e49a10f5bcb8004bc757f55bb013.png" width=250 height=250>
+<p>Allows you to locate biomes anywhere in the world.</p>
 
-License: Creative Commons Attribution Non Commercial Share Alike 3.0 Unported
+License: Creative Commons Attribution Non Commercial Share Alike 4.0 International
 
 ------
 
@@ -875,12 +1208,21 @@ License: MIT License
 
 ------
 
-## [Pack It Up!]("https://modrinth.com/mod/czWH0F4i")
+## [Paper Doll]("https://modrinth.com/mod/hD0W2Wde")
 
-<img src="https://cdn.modrinth.com/data/czWH0F4i/e346a88c661bd8f806d1076bf63980505ee4782d.png" width=250 height=250>
-<p>A simple backpack mod aimed to provide interesting progression options and simple upgradeability. Choose from a variety of themed packs that hold a ton of certain specific items!</p>
+<img src="https://cdn.modrinth.com/data/hD0W2Wde/7581c91a7f980c190aaa14180d02c2610f55d1e9.png" width=250 height=250>
+<p>Shows a tiny player model on screen when performing actions like sprinting, swimming, and flying.</p>
 
-License: MIT License
+License: Mozilla Public License 2.0
+
+------
+
+## [Permanent Sponges]("https://modrinth.com/mod/p6prwv2Q")
+
+<img src="https://cdn.modrinth.com/data/p6prwv2Q/672ab188f2c6ea4f60d6da716027979cee42f70b.png" width=250 height=250>
+<p>Sponges to keep an area permanently dry. Fancy underwater base anyone?</p>
+
+License: Mozilla Public License 2.0
 
 ------
 
@@ -920,12 +1262,30 @@ License: MIT License
 
 ------
 
-## [Radiant Gear]("https://modrinth.com/mod/AtT9wm5O")
+## [Puzzles Lib]("https://modrinth.com/mod/QAGBst4M")
 
-<img src="https://cdn.modrinth.com/data/AtT9wm5O/1242e54747b9eb91b409dc05e425bc53feeeecdf.png" width=250 height=250>
-<p>A compatibility bridge between Curios API or Trinkets API and dynamic light mods such as Lucent or LambDynamicLights. Formerly known as Curious Lights.</p>
+<img src="https://cdn.modrinth.com/data/QAGBst4M/icon.png" width=250 height=250>
+<p>Why's it called Puzzles you ask? That's the puzzle!</p>
 
-License: GNU Lesser General Public License v3.0 only
+License: Mozilla Public License 2.0
+
+------
+
+## [Rechiseled: Create]("https://modrinth.com/mod/E6867niZ")
+
+<img src="https://cdn.modrinth.com/data/E6867niZ/bdde59373bd2045a56cff2f10c1b120c8135a99f.png" width=250 height=250>
+<p>Rechiseled: Create adds new decorative variants of blocks in Create!</p>
+
+License: 
+
+------
+
+## [Rechiseled]("https://modrinth.com/mod/B0g2vT6l")
+
+<img src="https://cdn.modrinth.com/data/B0g2vT6l/icon.png" width=250 height=250>
+<p>Rechiseled allows you to chisel blocks into various decorative blocks with connected textures!</p>
+
+License: 
 
 ------
 
@@ -935,6 +1295,15 @@ License: GNU Lesser General Public License v3.0 only
 <p>Alternative Options Menu for Sodium</p>
 
 License: MIT License
+
+------
+
+## [REI Collapsible Entries]("https://modrinth.com/mod/lvuenewC")
+
+<img src="https://cdn.modrinth.com/data/lvuenewC/cd2fe67b387ba19c3e5f3349f4ba50bd2e838c11.png" width=250 height=250>
+<p>Adds quality-of-life REI collapsible entries for items from Minecraft and various of mods!</p>
+
+License: GNU General Public License v3.0 only
 
 ------
 
@@ -951,6 +1320,15 @@ License:
 
 <img src="https://cdn.modrinth.com/data/muf0XoRe/icon.png" width=250 height=250>
 <p>Adds more variations of vanilla structures and features such as a Jungle Fortress!</p>
+
+License: GNU Lesser General Public License v3.0 only
+
+------
+
+## [Resourcify]("https://modrinth.com/mod/RLzHAoZe")
+
+<img src="https://cdn.modrinth.com/data/RLzHAoZe/ffe37fe404e7c71bd4af874c4c11da578b53021e.png" width=250 height=250>
+<p>In-game resource pack, data pack and shader browser and updater</p>
 
 License: GNU Lesser General Public License v3.0 only
 
@@ -974,10 +1352,10 @@ License:
 
 ------
 
-## [SwitchCraft Goodies]("https://modrinth.com/mod/glA8M6fC")
+## [Roughly Searchable]("https://modrinth.com/mod/njGhQ4fN")
 
-<img src="https://cdn.modrinth.com/data/glA8M6fC/b9c7cb8709313eb742eead16042db481d303f583.png" width=250 height=250>
-<p>"Lemmmy's bag of tricks" - a collection of tiny additions designed for the SwitchCraft server in the style of many older mods. Highly opinionated.</p>
+<img src="https://cdn.modrinth.com/data/njGhQ4fN/icon.png" width=250 height=250>
+<p>Highlights items that match the current search in REI</p>
 
 License: MIT License
 
@@ -987,6 +1365,24 @@ License: MIT License
 
 <img src="https://cdn.modrinth.com/data/1KiJRrTg/icon.png" width=250 height=250>
 <p>Screenshots taken are copied to the clipboard.</p>
+
+License: MIT License
+
+------
+
+## [Searchables]("https://modrinth.com/mod/fuuu3xnx")
+
+<img src="https://cdn.modrinth.com/data/fuuu3xnx/758f85f0828691410527e3df127453f43f8abd48.png" width=250 height=250>
+<p>Searchables is a library mod that adds helper methods that allow for searching and filtering elements based on components, as well as offering built in auto-complete functionality.</p>
+
+License: MIT License
+
+------
+
+## [Show Me What You Got]("https://modrinth.com/mod/jTUiUpsh")
+
+<img src="https://cdn.modrinth.com/data/jTUiUpsh/icon.png" width=250 height=250>
+<p>Allows displaying your items in chat. Brag about your cool equipment!</p>
 
 License: MIT License
 
@@ -1028,10 +1424,28 @@ License: GNU Lesser General Public License v3.0 only
 
 ------
 
-## [Sound Physics Remastered]("https://modrinth.com/mod/qyVF9oeo")
+## [Sophisticated Backpacks (Unoffical Fabric port)]("https://modrinth.com/mod/ouNrBQtq")
 
-<img src="https://cdn.modrinth.com/data/qyVF9oeo/798fbfae58ec95ad51f3e1d522b43227306c326c.png" width=250 height=250>
-<p>A Minecraft mod that provides realistic sound attenuation, reverberation, and absorption through blocks.</p>
+<img src="https://cdn.modrinth.com/data/ouNrBQtq/56b67d5dca36a29d363c74b78c33f4458b1bdb6b.png" width=250 height=250>
+<p>This is the Unofficial Fabric version of Sophisticated Backpacks.</p>
+
+License: GNU Lesser General Public License v3.0 only
+
+------
+
+## [Sophisticated Core (Unofficial Fabric port)]("https://modrinth.com/mod/9jxwkYQL")
+
+<img src="https://cdn.modrinth.com/data/9jxwkYQL/1cdcf75010fe58c81e40085534750f2b7236d08a.png" width=250 height=250>
+<p>This is the Unofficial Fabric version of Sophisticated Core</p>
+
+License: GNU Lesser General Public License v3.0 only
+
+------
+
+## [spark]("https://modrinth.com/mod/l6YH9Als")
+
+<img src="https://cdn.modrinth.com/data/l6YH9Als/13676ddae142a85998c1c0086cafc30ce2efde80.png" width=250 height=250>
+<p>spark is a performance profiler for Minecraft clients, servers and proxies.</p>
 
 License: GNU General Public License v3.0 only
 
@@ -1055,19 +1469,37 @@ License: GNU Lesser General Public License v3.0 only
 
 ------
 
+## [Starter Kit]("https://modrinth.com/mod/6L3ydNi8")
+
+<img src="https://cdn.modrinth.com/data/6L3ydNi8/icon.jpg" width=250 height=250>
+<p>📦 Give all new players joining the world configurable starter gear, items and/or potion effects. It can overwrite the initial inventory, or add the items after. Compatible with FTB Team Islands.</p>
+
+License: 
+
+------
+
+## [SuperMartijn642's Config Lib]("https://modrinth.com/mod/LN9BxssP")
+
+<img src="https://cdn.modrinth.com/data/LN9BxssP/icon.png" width=250 height=250>
+<p>Config Lib makes dealing with config files just a bit easier.</p>
+
+License: 
+
+------
+
+## [SuperMartijn642's Core Lib]("https://modrinth.com/mod/rOUBggPv")
+
+<img src="https://cdn.modrinth.com/data/rOUBggPv/icon.png" width=250 height=250>
+<p>SuperMartijn642's Core Lib adds lots of basic implementations that allow for similar code between different Minecraft versions!</p>
+
+License: 
+
+------
+
 ## [Tax Free Levels]("https://modrinth.com/mod/jCBrrLTs")
 
 <img src="https://cdn.modrinth.com/data/jCBrrLTs/icon.png" width=250 height=250>
 <p>Flattens the ever-increasing anvil and enchantment costs and makes renaming items always cost 1 level</p>
-
-License: MIT License
-
-------
-
-## [Technopig]("https://modrinth.com/mod/BX3at1x4")
-
-<img src="https://cdn.modrinth.com/data/BX3at1x4/icon.png" width=250 height=250>
-<p>Name any pig "Technoblade" to add his crown to its head.</p>
 
 License: MIT License
 
@@ -1091,6 +1523,33 @@ License: MIT License
 
 ------
 
+## [Tiny Mob Farm Remastered]("https://modrinth.com/mod/fhAM8VCH")
+
+<img src="https://cdn.modrinth.com/data/fhAM8VCH/1ee9f879ee781c78ebb26966bceb8848685820a7.png" width=250 height=250>
+<p>Single-block size mob farms that makes mob farming neater and easier.</p>
+
+License: 
+
+------
+
+## [Tom's Peripherals]("https://modrinth.com/mod/ljgxd2P8")
+
+<img src="https://cdn.modrinth.com/data/ljgxd2P8/2b0fb90df496751b34af97edf974dc65cf5a4b26.png" width=250 height=250>
+<p>CC: Tweaked Addon with High resolution monitors, 3D grahpics and more</p>
+
+License: MIT License
+
+------
+
+## [Tom's Simple Storage Mod]("https://modrinth.com/mod/XZNI4Cpy")
+
+<img src="https://cdn.modrinth.com/data/XZNI4Cpy/icon.png" width=250 height=250>
+<p>Simple vanilla style storage mod</p>
+
+License: MIT License
+
+------
+
 ## [Traverse]("https://modrinth.com/mod/kXygSBVI")
 
 <img src="https://cdn.modrinth.com/data/kXygSBVI/icon.png" width=250 height=250>
@@ -1109,12 +1568,30 @@ License: MIT License
 
 ------
 
-## [Vanilla Food Types]("https://modrinth.com/mod/ToiKj0n3")
+## [ul]("https://modrinth.com/mod/")
 
-<img src="https://cdn.modrinth.com/data/ToiKj0n3/b14be6e0f414d9647a93102e0df36e6e42da8ba8.png" width=250 height=250>
-<p>A simple mod to add multiple vanilla style foods</p>
+<img src="ul" width=250 height=250>
+<p>the requested route does not exist</p>
 
-License: Creative Commons Zero v1.0 Universal
+License: ul
+
+------
+
+## [UI Lib]("https://modrinth.com/mod/AOEDs9Al")
+
+<img src="https://cdn.modrinth.com/data/AOEDs9Al/9d67b22eeddb6a286e6ceeab9d6360c7429cdc7a.png" width=250 height=250>
+<p>A user interface library for Minecraft modding.</p>
+
+License: Apache License 2.0
+
+------
+
+## [Universal Enchants]("https://modrinth.com/mod/DT56YDir")
+
+<img src="https://cdn.modrinth.com/data/DT56YDir/icon.png" width=250 height=250>
+<p>Better enchantments! Use them on all tools and weapons. Infinity crossbow, or looting trident anyone?</p>
+
+License: Mozilla Public License 2.0
 
 ------
 
@@ -1142,6 +1619,15 @@ License:
 <p>Pick and download Vanilla Tweaks resource packs directly from your Minecraft client!</p>
 
 License: MIT License
+
+------
+
+## [Wakes]("https://modrinth.com/mod/dlNu0RQY")
+
+<img src="https://cdn.modrinth.com/data/dlNu0RQY/a4ae56b04602060fab56796ac88a4c4fb656c6ac.png" width=250 height=250>
+<p>Adds splashes and wakes while traveling on water</p>
+
+License: GNU General Public License v3.0 only
 
 ------
 
@@ -1207,5 +1693,6 @@ License: Creative Commons Attribution Non Commercial 4.0 International
 License: GNU Lesser General Public License v3.0 only
 
 ------
+
 
 </details><!--}}}-->

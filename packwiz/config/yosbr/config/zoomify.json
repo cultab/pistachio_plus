@@ -15,11 +15,10 @@
         "zoomify_gui_linearlikesteps_name": true
     },
     "zoomify_gui_category_controls": {
-        "zoomify_gui_zoomkeybehaviour_name": 0,
         "zoomify_gui_keybindscrolling_name": false,
         "zoomify_gui_relativesensitivity_name": 100,
         "zoomify_gui_relativeviewbobbing_name": true,
-        "zoomify_gui_cinematiccam_name": 100
+        "zoomify_gui_cinematiccam_name": 0
     },
     "zoomify_gui_category_spyglass": {
         "zoomify_gui_spyglassbehaviour_name": 0,

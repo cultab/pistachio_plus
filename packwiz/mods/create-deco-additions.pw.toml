@@ -1,0 +1,13 @@
+name = "Create Deco Additions"
+filename = "create-deco-additions-1.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HrsF061q/versions/GWWkSXtF/create-deco-additions-1.3.jar"
+hash-format = "sha1"
+hash = "b8850600e00829a4244f4385cd82a7d4a69748ec"
+
+[update]
+[update.modrinth]
+mod-id = "HrsF061q"
+version = "GWWkSXtF"

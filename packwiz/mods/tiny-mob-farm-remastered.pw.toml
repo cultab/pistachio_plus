@@ -1,0 +1,13 @@
+name = "Tiny Mob Farm Remastered"
+filename = "tinymobfarm-1.2.1-1.20.1-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fhAM8VCH/versions/g5qhrAnt/tinymobfarm-1.2.1-1.20.1-fabric.jar"
+hash-format = "sha1"
+hash = "14e2e39406dfabacf556bd4faa6d8c6ae90055cb"
+
+[update]
+[update.modrinth]
+mod-id = "fhAM8VCH"
+version = "g5qhrAnt"

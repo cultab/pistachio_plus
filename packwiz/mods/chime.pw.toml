@@ -1,13 +1,13 @@
 name = "Chime"
-filename = "chime-1.4.0.jar"
+filename = "chime-1.5.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ubxU84eR/versions/K8XS3EvC/chime-1.4.0.jar"
+url = "https://cdn.modrinth.com/data/ubxU84eR/versions/dHkLtZ9C/chime-1.5.0.jar"
 hash-format = "sha1"
-hash = "f693882b4495963c509e143bbfabe965af087532"
+hash = "e529fee78291430996cda79352e2612020228642"
 
 [update]
 [update.modrinth]
 mod-id = "ubxU84eR"
-version = "K8XS3EvC"
+version = "dHkLtZ9C"

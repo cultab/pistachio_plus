@@ -1,0 +1,13 @@
+name = "Paper Doll"
+filename = "PaperDoll-v8.0.0-1.20.1-Fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hD0W2Wde/versions/m32rknsl/PaperDoll-v8.0.0-1.20.1-Fabric.jar"
+hash-format = "sha1"
+hash = "f1ef7ab02d3e4075d0b8556f40ce6ef7344d382c"
+
+[update]
+[update.modrinth]
+mod-id = "hD0W2Wde"
+version = "m32rknsl"

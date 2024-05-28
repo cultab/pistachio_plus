@@ -1,0 +1,13 @@
+name = "REI Collapsible Entries"
+filename = "reicollapsibleentries-3.1.0-fabric1.20.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lvuenewC/versions/fYXMC6wt/reicollapsibleentries-3.1.0-fabric1.20.jar"
+hash-format = "sha1"
+hash = "db57a1de7b27b15dd73aa1f9e980a42e3529d92d"
+
+[update]
+[update.modrinth]
+mod-id = "lvuenewC"
+version = "fYXMC6wt"

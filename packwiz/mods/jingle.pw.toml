@@ -1,13 +1,13 @@
 name = "Jingle"
-filename = "jingle-1.0.1.jar"
+filename = "jingle-1.0.2-1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/wW4bfUnJ/versions/jZLxd5O5/jingle-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/wW4bfUnJ/versions/YE6mVV5U/jingle-1.0.2-1.20.1.jar"
 hash-format = "sha1"
-hash = "f25c2fb4dcc3ec298f57f5a8baca019a5012c2ab"
+hash = "54db02121922ad7e4c77075c0d09c823a395b2c3"
 
 [update]
 [update.modrinth]
 mod-id = "wW4bfUnJ"
-version = "jZLxd5O5"
+version = "YE6mVV5U"
