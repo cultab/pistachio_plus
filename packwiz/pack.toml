@@ -1,11 +1,11 @@
 name = "PistachioPlus"
-version = "1.0.0"
+version = "1.0.3"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "f3e5226112791d956f4669a229b2f655dd34be08931b8d82851d09ba913fdb85"
+hash = "b4aed399030c9cd4b24c7a10abf15e78b4ff6e1741791e24ca9f3896b9af5c6f"
 
 [versions]
 fabric = "0.15.11"

@@ -15,8 +15,9 @@ A Vanilla+ modpack with some opinionated additions.
 | Plasmo Voice              | Discord is boring!                       |
 | Simple Copper Pipes       | Pipes... made of copper!                 |
 | Tax Free Levels           | Enchanting is fun again!                 |
-| Forgero                   | Basically Tinker's Contructs for fabric! |
 | Wilder Wild               | What The Wild Update should have been!   |
+
+<!-- | Forgero                   | Basically Tinker's Contructs for fabric! | -->
 
 <details><summary><b>📜 Full mods list</b></summary><!--{{{-->
 
@@ -650,6 +651,15 @@ License: Creative Commons Attribution Non Commercial No Derivatives 4.0 Internat
 
 ------
 
+## [Eureka! Ships! for Valkyrien Skies (Forge/Fabric)]("https://modrinth.com/mod/EO8aSHxh")
+
+<img src="https://cdn.modrinth.com/data/EO8aSHxh/67865e0eabadcd6903f2a3296b729ba00b23de3e.png" width=250 height=250>
+<p>Eureka! Build ships in Minecraft out of ordinary blocks, with physics.</p>
+
+License: Apache License 2.0
+
+------
+
 ## [Expanded Storage]("https://modrinth.com/mod/jCCPlP3c")
 
 <img src="https://cdn.modrinth.com/data/jCCPlP3c/a6ca35b0239e67089a9c6a9a703ebb3b7be80fed.png" width=250 height=250>
@@ -794,6 +804,15 @@ License: MIT License
 
 ------
 
+## [Hearths]("https://modrinth.com/mod/XCIMrYn0")
+
+<img src="https://cdn.modrinth.com/data/XCIMrYn0/e0349d4c25d734ff921c802ec298a556af3ffc1a.png" width=250 height=250>
+<p>A handful of additions to vanilla Nether biomes</p>
+
+License: 
+
+------
+
 ## [Held Item Tooltips]("https://modrinth.com/mod/3wWtgZGB")
 
 <img src="https://cdn.modrinth.com/data/3wWtgZGB/beede8b0e26221e662458f7358284b155bc11ee7.png" width=250 height=250>
@@ -908,15 +927,6 @@ License: GNU Lesser General Public License v3.0 only
 <p>A fabric mod to alert you when you load into a world or the title screen.</p>
 
 License: GNU General Public License v3.0 only
-
-------
-
-## [JourneyMap]("https://modrinth.com/mod/lfHFW1mp")
-
-<img src="https://cdn.modrinth.com/data/lfHFW1mp/icon.png" width=250 height=250>
-<p>Real-time mapping in game or in a web browser as you explore.</p>
-
-License: 
 
 ------
 
@@ -1325,6 +1335,15 @@ License: GNU Lesser General Public License v3.0 only
 
 ------
 
+## [Resource Pack Overrides]("https://modrinth.com/mod/YsFycamt")
+
+<img src="https://cdn.modrinth.com/data/YsFycamt/e7e3f23803e72f3e3b480c15f640a8f93a60bcb4.png" width=250 height=250>
+<p>Ensures important resource packs stay always active and helps clean up the pack selection screen.</p>
+
+License: Mozilla Public License 2.0
+
+------
+
 ## [Resourcify]("https://modrinth.com/mod/RLzHAoZe")
 
 <img src="https://cdn.modrinth.com/data/RLzHAoZe/ffe37fe404e7c71bd4af874c4c11da578b53021e.png" width=250 height=250>
@@ -1586,12 +1605,30 @@ License: Apache License 2.0
 
 ------
 
+## [Ultris: Boss Expansion]("https://modrinth.com/mod/tA7mQv7R")
+
+<img src="https://cdn.modrinth.com/data/tA7mQv7R/b5084c20efa72a0c2feb80313285446c8e7705b2.png" width=250 height=250>
+<p>Explore 8 new and exciting bosses to take on across your world, with new structures, items, and stories for you to unravel.</p>
+
+License: 
+
+------
+
 ## [Universal Enchants]("https://modrinth.com/mod/DT56YDir")
 
 <img src="https://cdn.modrinth.com/data/DT56YDir/icon.png" width=250 height=250>
 <p>Better enchantments! Use them on all tools and weapons. Infinity crossbow, or looting trident anyone?</p>
 
 License: Mozilla Public License 2.0
+
+------
+
+## [Valkyrien Skies]("https://modrinth.com/mod/V5ujR2yw")
+
+<img src="https://cdn.modrinth.com/data/V5ujR2yw/d156dee2ce00ca6ce07343bf8db374a05893f376.png" width=250 height=250>
+<p>Physics in Minecraft</p>
+
+License: GNU Lesser General Public License v3.0 only
 
 ------
 
@@ -1658,6 +1695,24 @@ License: Creative Commons Attribution Non Commercial Share Alike 4.0 Internation
 
 ------
 
+## [Xaero's Minimap]("https://modrinth.com/mod/1bokaNcj")
+
+<img src="https://cdn.modrinth.com/data/1bokaNcj/80eb00784e250b99fb1789da35869387d14d5637.png" width=250 height=250>
+<p>Displays a map of the nearby world terrain, players, mobs, entities in the corner of your screen. Lets you create waypoints which help you find the locations you've marked.</p>
+
+License: 
+
+------
+
+## [Xaero's World Map]("https://modrinth.com/mod/NcUtCpym")
+
+<img src="https://cdn.modrinth.com/data/NcUtCpym/80eb00784e250b99fb1789da35869387d14d5637.png" width=250 height=250>
+<p>Adds a full screen world map which shows you what you have explored in the world. Works great together with Xaero's Minimap.</p>
+
+License: 
+
+------
+
 ## [YetAnotherConfigLib]("https://modrinth.com/mod/1eAoo2KR")
 
 <img src="https://cdn.modrinth.com/data/1eAoo2KR/1e43d5714f87ac6b20622e73b3ba7209be5ebafb.png" width=250 height=250>
@@ -1693,6 +1748,5 @@ License: Creative Commons Attribution Non Commercial 4.0 International
 License: GNU Lesser General Public License v3.0 only
 
 ------
-
 
 </details><!--}}}-->

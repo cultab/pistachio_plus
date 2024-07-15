@@ -1,13 +1,13 @@
 name = "Damage Numbers"
-filename = "damagenumbers-1.3.0-fabric.jar"
+filename = "damagenumbers-1.4.0-fabric.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/iWdXs2dQ/versions/WWQCvabQ/damagenumbers-1.3.0-fabric.jar"
+url = "https://cdn.modrinth.com/data/iWdXs2dQ/versions/xpk8YOKG/damagenumbers-1.4.0-fabric.jar"
 hash-format = "sha1"
-hash = "c0dff907531a5e2d9c9bd2518c9e8dcbad8375e9"
+hash = "fe499dc5d175e2a86ac0e81725c6fbb651d4f482"
 
 [update]
 [update.modrinth]
 mod-id = "iWdXs2dQ"
-version = "WWQCvabQ"
+version = "xpk8YOKG"
