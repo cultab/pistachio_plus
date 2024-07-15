@@ -114,7 +114,7 @@ License: GNU Lesser General Public License v3.0 only
 ## [Axes Are Weapons]("https://modrinth.com/mod/1jvt7RTc")
 
 <img src="https://cdn.modrinth.com/data/1jvt7RTc/icon.png" width=250 height=250>
-<p>Disables the increased durability loss in combat and enables Looting for axes</p>
+<p>Disables the increased durability loss in combat and enables Looting for axes and more!</p>
 
 License: MIT License
 
@@ -152,7 +152,7 @@ License: MIT License
 <img src="https://cdn.modrinth.com/data/kqJFAPU9/icon.png" width=250 height=250>
 <p>Improves the ingame HUD while riding a mount</p>
 
-License: GNU Lesser General Public License v3.0 only
+License: GNU General Public License v3.0 only
 
 ------
 
@@ -284,7 +284,7 @@ License: MIT License
 
 ## [Cinderscapes]("https://modrinth.com/mod/QC4wcUXZ")
 
-<img src="https://cdn.modrinth.com/data/QC4wcUXZ/icon.png" width=250 height=250>
+<img src="https://cdn.modrinth.com/data/QC4wcUXZ/685b55b0df438edb99b206969a90129e384394bb.webp" width=250 height=250>
 <p>A biome mod expanding the life of The Nether</p>
 
 License: GNU Lesser General Public License v3.0 only
@@ -338,7 +338,7 @@ License: MIT License
 
 ## [Collective]("https://modrinth.com/mod/e0M1UDsY")
 
-<img src="https://cdn.modrinth.com/data/e0M1UDsY/icon.png" width=250 height=250>
+<img src="https://cdn.modrinth.com/data/e0M1UDsY/515b2b2ba7130da250b0a23ac01994cb6b6cc2d1.png" width=250 height=250>
 <p>🎓 Collective is a shared library with common code for all of Serilum's mods.</p>
 
 License: 
@@ -363,7 +363,7 @@ License: MIT License
 
 ------
 
-## [Cooked carrots [Fabric/Forge]]("https://modrinth.com/mod/Bl3JrwOb")
+## [Cooked Carrots]("https://modrinth.com/mod/Bl3JrwOb")
 
 <img src="https://cdn.modrinth.com/data/Bl3JrwOb/icon.png" width=250 height=250>
 <p>Just like normal carrots, but you eat them faster</p>
@@ -381,7 +381,7 @@ License: MIT License
 
 ------
 
-## [Missing Nugget [Fabric/Forge]]("https://modrinth.com/mod/o0A3el15")
+## [Copper Nugget]("https://modrinth.com/mod/o0A3el15")
 
 <img src="https://cdn.modrinth.com/data/o0A3el15/ad282bf0d959bd6394b4e5d8048379fb9176bd8e.png" width=250 height=250>
 <p>Adds Copper Nugget</p>
@@ -408,7 +408,7 @@ License: Apache License 2.0
 
 ------
 
-## [Craft slabs back into blocks [Fabric/Forge]]("https://modrinth.com/mod/8MosnjaC")
+## [Craft Slabs Back Into Blocks]("https://modrinth.com/mod/8MosnjaC")
 
 <img src="https://cdn.modrinth.com/data/8MosnjaC/e55f41b013031d9d3d14cc8bc200c535b1fa74fe.png" width=250 height=250>
 <p>With this mod you can craft slabs back into blocks</p>
@@ -440,7 +440,7 @@ License: MIT License
 <img src="https://cdn.modrinth.com/data/sMvUb4Rb/568feacea08ddad4bf91f5e5c396b76a7cba3e30.png" width=250 height=250>
 <p>Industrial decoration themed around the aesthetics of the Create mod.</p>
 
-License: GNU Lesser General Public License v3.0 only
+License: MIT License
 
 ------
 
@@ -573,7 +573,7 @@ License: MIT License
 ## [Dynamic FPS]("https://modrinth.com/mod/LQ3K71Q1")
 
 <img src="https://cdn.modrinth.com/data/LQ3K71Q1/icon.png" width=250 height=250>
-<p>Improve performance when Minecraft is in the background.</p>
+<p>Reduce resource usage while Minecraft is in the background or idle.</p>
 
 License: MIT License
 
@@ -588,7 +588,7 @@ License: Mozilla Public License 2.0
 
 ------
 
-## [Eating Animation [Fabric]]("https://modrinth.com/mod/rUgZvGzi")
+## [Eating Animation]("https://modrinth.com/mod/rUgZvGzi")
 
 <img src="https://cdn.modrinth.com//data/rUgZvGzi/icon.gif" width=250 height=250>
 <p>A mod that adds sprite animations for edible and drinkable items.</p>
@@ -624,7 +624,7 @@ License: GNU Lesser General Public License v3.0 only
 
 ------
 
-## [EntityCulling]("https://modrinth.com/mod/NNAgCjsB")
+## [Entity Culling]("https://modrinth.com/mod/NNAgCjsB")
 
 <img src="https://cdn.modrinth.com/data/NNAgCjsB/icon.png" width=250 height=250>
 <p>Using async path-tracing to hide Block-/Entities that are not visible</p>
@@ -633,9 +633,9 @@ License:
 
 ------
 
-## [Entity Texture Features]("https://modrinth.com/mod/BVzZfTc1")
+## [[ETF] Entity Texture Features]("https://modrinth.com/mod/BVzZfTc1")
 
-<img src="https://cdn.modrinth.com/data/BVzZfTc1/8652b3d18c262b33e0cf194d402977897267573a.png" width=250 height=250>
+<img src="https://cdn.modrinth.com/data/BVzZfTc1/fa03aea7027f38b272a249d26cbe4cb7e94becf1.png" width=250 height=250>
 <p>Emissive, Random & Custom texture support for entities in resourcepacks just like Optifine but for Fabric</p>
 
 License: GNU Lesser General Public License v3.0 only
@@ -681,7 +681,7 @@ License: Apache License 2.0
 ## [Fabric Language Kotlin]("https://modrinth.com/mod/Ha28R6CL")
 
 <img src="https://cdn.modrinth.com/data/Ha28R6CL/icon.png" width=250 height=250>
-<p>Fabric Language Kotlin</p>
+<p>This is a mod that enables usage of the Kotlin programming language for Fabric mods.</p>
 
 License: Apache License 2.0
 
@@ -761,23 +761,14 @@ License: MIT License
 
 ## [Forge Config API Port]("https://modrinth.com/mod/ohNO6lps")
 
-<img src="https://cdn.modrinth.com/data/ohNO6lps/icon.png" width=250 height=250>
-<p>Yes, you're reading that correctly. This is the whole Forge Config API ported to Fabric.</p>
+<img src="https://cdn.modrinth.com/data/ohNO6lps/cb3b942cc18a66a0f35f802e004713f134e46cc2.png" width=250 height=250>
+<p>NeoForge's & Forge's config systems provided to other modding ecosystems. Designed for a multiloader architecture.</p>
 
 License: Mozilla Public License 2.0
 
 ------
 
-## [Forgero]("https://modrinth.com/mod/wxKGvopS")
-
-<img src="https://cdn.modrinth.com/data/wxKGvopS/62e9e569bca417fd0277cadd9a81dadefbdd6afb.png" width=250 height=250>
-<p>Tool creation and customization mod with an immense amount of variations and possible upgrades.</p>
-
-License: MIT License
-
-------
-
-## [Friends&Foes (Fabric)]("https://modrinth.com/mod/POQ2i9zu")
+## [Friends&Foes (Fabric/Quilt)]("https://modrinth.com/mod/POQ2i9zu")
 
 <img src="https://cdn.modrinth.com/data/POQ2i9zu/fe23f8f297e91811bc1cdff3a617b4a5249fae16.jpeg" width=250 height=250>
 <p>Adds outvoted and forgotten mobs from the mob votes in a believable vanilla plus style. (Copper Golem, Glare, Moobloom, Iceologer, Barnacle, Wildfire, Illusioner, Rascal, Tuff Golem)</p>
@@ -914,7 +905,7 @@ License: MIT License
 
 ## [ItemSwapper]("https://modrinth.com/mod/RPOSBQgq")
 
-<img src="https://cdn.modrinth.com/data/RPOSBQgq/3e732c663c11291062cc08d8305e6a3f4763aa1d.png" width=250 height=250>
+<img src="https://cdn.modrinth.com/data/RPOSBQgq/2ab4614cc4288baa911be0365cd22203e75b9233.png" width=250 height=250>
 <p>Inventory update concept for hotswapping items.</p>
 
 License: GNU Lesser General Public License v3.0 only
@@ -924,7 +915,7 @@ License: GNU Lesser General Public License v3.0 only
 ## [Jingle]("https://modrinth.com/mod/wW4bfUnJ")
 
 <img src="https://cdn.modrinth.com/data/wW4bfUnJ/4d42c5699320d815dfdc087e747059cc08408f5f.png" width=250 height=250>
-<p>A fabric mod to alert you when you load into a world or the title screen.</p>
+<p>A fabric mod to alert you when you load into a world, the title screen or wake up.</p>
 
 License: GNU General Public License v3.0 only
 
@@ -1032,9 +1023,9 @@ License: GNU Lesser General Public License v3.0 only
 ## [Make Bubbles Pop]("https://modrinth.com/mod/gPCdW0Wr")
 
 <img src="https://cdn.modrinth.com/data/gPCdW0Wr/4616c50230e3e716f02127a0e74f250470a07e85.png" width=250 height=250>
-<p>Client-side mod that makes bubble particles pop.</p>
+<p>Client-side mod that makes bubble particles pop and lets them rise realistically to the water surface.</p>
 
-License: MIT License
+License: 
 
 ------
 
@@ -1130,7 +1121,7 @@ License:
 
 ## [Mod Menu]("https://modrinth.com/mod/mOgUt4GM")
 
-<img src="https://cdn.modrinth.com/data/mOgUt4GM/icon.png" width=250 height=250>
+<img src="https://cdn.modrinth.com/data/mOgUt4GM/1b6bcdef5a3d92572f517122650716be7ec6458b.webp" width=250 height=250>
 <p>Adds a mod menu to view the list of mods you have installed.</p>
 
 License: MIT License
@@ -1202,8 +1193,8 @@ License: MIT License
 
 ## [OptiGUI]("https://modrinth.com/mod/JuksLGBQ")
 
-<img src="https://cdn.modrinth.com/data/JuksLGBQ/icon.png" width=250 height=250>
-<p>A client side drop-in replacement for OptiFine custom GUIs</p>
+<img src="https://cdn.modrinth.com/data/JuksLGBQ/2ec739011e612256ebe0c79a4ce064d0e453dd0f.png" width=250 height=250>
+<p>Blazing fast custom GUI textures on Fabric and Quilt with built-in OptiFine custom GUI resource pack support</p>
 
 License: MIT License
 
@@ -1241,7 +1232,7 @@ License: Mozilla Public License 2.0
 <img src="https://cdn.modrinth.com/data/1bZhdhsH/icon.png" width=250 height=250>
 <p>A proximity voice chat mod with audio positioning and lots of features</p>
 
-License: 
+License: GNU Lesser General Public License v3.0 only
 
 ------
 
@@ -1410,7 +1401,7 @@ License: MIT License
 ## [Simple Copper Pipes]("https://modrinth.com/mod/9r4ZkgSN")
 
 <img src="https://cdn.modrinth.com/data/9r4ZkgSN/24da6f2b3298f0941a967e4b72f063cd48f3b636.png" width=250 height=250>
-<p>Adds vanilla-friendly copper pipes to Minecraft!</p>
+<p>Adds Copper Pipes to Minecraft!</p>
 
 License: MIT License
 
@@ -1428,7 +1419,7 @@ License: GNU Lesser General Public License v3.0 only
 ## [Sodium Extra]("https://modrinth.com/mod/PtjYWJkn")
 
 <img src="https://cdn.modrinth.com/data/PtjYWJkn/icon.png" width=250 height=250>
-<p>Features that shouldn't be in Sodium.</p>
+<p>A Sodium addon that adds features that shouldn't be in Sodium.</p>
 
 License: GNU Lesser General Public License v3.0 only
 
@@ -1437,9 +1428,9 @@ License: GNU Lesser General Public License v3.0 only
 ## [Sodium]("https://modrinth.com/mod/AANobbMI")
 
 <img src="https://cdn.modrinth.com/data/AANobbMI/icon.png" width=250 height=250>
-<p>Modern rendering engine and client-side optimization mod for Minecraft</p>
+<p>A modern rendering engine for Minecraft which greatly improves performance</p>
 
-License: GNU Lesser General Public License v3.0 only
+License: 
 
 ------
 
@@ -1472,10 +1463,10 @@ License: GNU General Public License v3.0 only
 
 ## [Spawn Animations]("https://modrinth.com/mod/zrzYrlm0")
 
-<img src="https://cdn.modrinth.com/data/zrzYrlm0/ec9d5ef6862cc8a1bd2c33200cd05e26423a1a29.png" width=250 height=250>
+<img src="https://cdn.modrinth.com/data/zrzYrlm0/f1d1fea6dd27a539d04c46fdd98d6efcfeb90b9a.png" width=250 height=250>
 <p>Hostile mobs dig out of the ground or poof into existence when they spawn!</p>
 
-License: MIT License
+License: 
 
 ------
 
@@ -1526,7 +1517,7 @@ License: MIT License
 
 ## [Terrestria]("https://modrinth.com/mod/lsUDPMOT")
 
-<img src="https://cdn.modrinth.com/data/lsUDPMOT/icon.png" width=250 height=250>
+<img src="https://cdn.modrinth.com/data/lsUDPMOT/37bf53575f1767f27e1f99b1a0d355031c013fa3.webp" width=250 height=250>
 <p>Terrestria is a detailed and vibrant biomes mod for Minecraft running on the Fabric mod loader.</p>
 
 License: GNU Lesser General Public License v3.0 only
@@ -1571,7 +1562,7 @@ License: MIT License
 
 ## [Traverse]("https://modrinth.com/mod/kXygSBVI")
 
-<img src="https://cdn.modrinth.com/data/kXygSBVI/icon.png" width=250 height=250>
+<img src="https://cdn.modrinth.com/data/kXygSBVI/5507d49d937b079d024236768b8fc05922cdb495.webp" width=250 height=250>
 <p>A biome expansion mod that embraces the simplistic nature of Minecraft biomes</p>
 
 License: GNU Lesser General Public License v3.0 only
@@ -1679,10 +1670,10 @@ License:
 
 ## [Wilder Wild]("https://modrinth.com/mod/AtHRJSUW")
 
-<img src="https://cdn.modrinth.com/data/AtHRJSUW/icon.png" width=250 height=250>
+<img src="https://cdn.modrinth.com/data/AtHRJSUW/5bb69fad5ab237a0738f90e24d70f9d379364633.png" width=250 height=250>
 <p>This mod aims to upgrade the Wild Update!</p>
 
-License: GNU Lesser General Public License v3.0 only
+License: GNU General Public License v3.0 only
 
 ------
 
@@ -1736,7 +1727,7 @@ License: MIT License
 <img src="https://cdn.modrinth.com/data/WwbubTsV/icon.png" width=250 height=250>
 <p>Your options shall be respected.</p>
 
-License: Creative Commons Attribution Non Commercial 4.0 International
+License: GNU Lesser General Public License v3.0 only
 
 ------
 
